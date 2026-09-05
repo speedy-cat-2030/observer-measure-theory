@@ -1,0 +1,1557 @@
+{
+  "schema_version": 1,
+  "topic_files": {
+    "measure": "10_theory/01_measure.md",
+    "reference": "10_theory/02_reference.md",
+    "numbers": "10_theory/03_numbers.md",
+    "time": "10_theory/04_time_identity.md",
+    "identity": "10_theory/04_time_identity.md",
+    "onset": "10_theory/05_onset.md",
+    "future": "10_theory/06_future.md",
+    "bayes": "10_theory/07_bayes_objections.md",
+    "objections": "10_theory/07_bayes_objections.md",
+    "asi": "10_theory/08_asi_ethics.md",
+    "ethics": "10_theory/08_asi_ethics.md",
+    "governance": "10_theory/09_governance.md",
+    "consciousness": "10_theory/10_consciousness.md",
+    "simulation": "10_theory/11_simulation_ontology.md",
+    "ontology": "10_theory/11_simulation_ontology.md",
+    "forecast": "10_theory/12_forecasts.md",
+    "practice": "10_theory/13_personal_dialogue.md",
+    "dialogue": "10_theory/13_personal_dialogue.md",
+    "history": "20_history/EVOLUTION.md"
+  },
+  "articles": [
+    {
+      "id": "001",
+      "title": "なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #1",
+      "date": "2026-06-25",
+      "state": "起点・数値更新済",
+      "topics": [
+        "measure",
+        "reference",
+        "future"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/02_reference.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/001.md",
+      "snapshot": "80_sources/001.md",
+      "sha256": "563d0fd71ede954ace19533f2e1d97e41c29725ddf129fb532cb14de4d673cce",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "002",
+      "title": "超知能ですら、自身の存在目的は分からないのではないか──ケース1～3の超知能",
+      "date": "2026-06-27",
+      "state": "歴史的ASI分類・確率旧版",
+      "topics": [
+        "asi",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/002.md",
+      "snapshot": "80_sources/002.md",
+      "sha256": "7f053a6e77aa42742ab9f47592619a22279d4337d72380dc971d4a14ae34559f",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "003",
+      "title": "「この宇宙はシミュレーションである」──だから何なのか？",
+      "date": "2026-06-27",
+      "state": "初期形而上学・後にシミュレーション重視低下",
+      "topics": [
+        "simulation",
+        "ontology",
+        "asi"
+      ],
+      "modules": [
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/003.md",
+      "snapshot": "80_sources/003.md",
+      "sha256": "03e9f21511d6bea164f901519e62e93e2fc022a2d3bb5ebde76356a4b43bc821",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "004",
+      "title": "AIは「痛い」と言える。でも、本当に痛がれるのか",
+      "date": "2026-06-28",
+      "state": "意識観の基礎・仮説",
+      "topics": [
+        "consciousness",
+        "simulation"
+      ],
+      "modules": [
+        "10_theory/10_consciousness.md",
+        "10_theory/11_simulation_ontology.md"
+      ],
+      "card": "30_articles/004.md",
+      "snapshot": "80_sources/004.md",
+      "sha256": "863f2ac64ff8d6019da6af842d4f1580498515f5d4f040219753bc44c9c8e02e",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "005",
+      "title": "なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #2 反論",
+      "date": "2026-06-30",
+      "state": "基礎論の初期展開",
+      "topics": [
+        "reference",
+        "measure",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/02_reference.md",
+        "10_theory/01_measure.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/005.md",
+      "snapshot": "80_sources/005.md",
+      "sha256": "6c1d7f7deb328362c22cc65f704550571ed07ddc4c3ae1707fdd1ce44f6b5320",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "006",
+      "title": "倫理的未来仮説",
+      "date": "2026-06-30",
+      "state": "倫理的未来仮説の初版・条件付き",
+      "topics": [
+        "future",
+        "ethics",
+        "asi",
+        "simulation"
+      ],
+      "modules": [
+        "10_theory/06_future.md",
+        "10_theory/08_asi_ethics.md",
+        "10_theory/11_simulation_ontology.md"
+      ],
+      "card": "30_articles/006.md",
+      "snapshot": "80_sources/006.md",
+      "sha256": "7c081ed292302129220a566d6d57463189fdf260697c487891665688dc9f0ec6",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "007",
+      "title": "経験重みづけは、クラスタではなく私個人に効くのか",
+      "date": "2026-06-30",
+      "state": "個人系列論・条件付き",
+      "topics": [
+        "measure",
+        "identity",
+        "future"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/007.md",
+      "snapshot": "80_sources/007.md",
+      "sha256": "0f325cb1c6cad474ec57275c8f4d8869f448140627a957634b1d0624255cc4a6",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "008",
+      "title": "超知能はなぜ人類を消さないのか",
+      "date": "2026-07-02",
+      "state": "ASI保存論・条件付き補助",
+      "topics": [
+        "asi",
+        "ethics",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/008.md",
+      "snapshot": "80_sources/008.md",
+      "sha256": "b6486b8047ec50b4bc8c3a2e1e0c2a81eee491d8065f24f2ef9caa8e50a58330",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "009",
+      "title": "長寿社会では、なぜ生殖が制御されるのか",
+      "date": "2026-07-02",
+      "state": "出生慎重化の初版・後に強化",
+      "topics": [
+        "future",
+        "ethics"
+      ],
+      "modules": [
+        "10_theory/06_future.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/009.md",
+      "snapshot": "80_sources/009.md",
+      "sha256": "1d8250b8040fd31c97d6af532331a68642767e2b0b01e2c22cecb0cb2a5816ac",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "010",
+      "title": "この宇宙はシミュレーションではない気がしてきた",
+      "date": "2026-07-02",
+      "state": "シミュレーションへの見解変更",
+      "topics": [
+        "simulation",
+        "ontology",
+        "asi"
+      ],
+      "modules": [
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/010.md",
+      "snapshot": "80_sources/010.md",
+      "sha256": "153d2d4d5c6eef078079d4b4378198043f469178ca56e22d96ba86e94526b718",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "011",
+      "title": "祖先シミュレーションの無限ループはどこで止まるのか",
+      "date": "2026-07-04",
+      "state": "祖先シミュレーション反論への補修",
+      "topics": [
+        "simulation",
+        "reference"
+      ],
+      "modules": [
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/02_reference.md"
+      ],
+      "card": "30_articles/011.md",
+      "snapshot": "80_sources/011.md",
+      "sha256": "c998a2f970b24f409cdd23d282dc267a456d81cf23a48a71ec156777673fcc49",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "012",
+      "title": "まとめ：「私はなぜ、この存在なのか？」から未来を推論する",
+      "date": "2026-07-04",
+      "state": "初期体系図・現行ではない",
+      "topics": [
+        "asi",
+        "simulation",
+        "measure",
+        "future"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/01_measure.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/012.md",
+      "snapshot": "80_sources/012.md",
+      "sha256": "17ef7151b88637053ec81ee3e6b9d352f81c90ce12edd2d3988783f5b85bb9ce",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "013",
+      "title": "ASIは人類を滅ぼすのか：ベイズ推定と人間原理①",
+      "date": "2026-07-04",
+      "state": "ベイズ枠組みの初版",
+      "topics": [
+        "bayes",
+        "measure",
+        "asi"
+      ],
+      "modules": [
+        "10_theory/07_bayes_objections.md",
+        "10_theory/01_measure.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/013.md",
+      "snapshot": "80_sources/013.md",
+      "sha256": "d73d4ef9aceaf41f85526f51d8d2e75927c20775ae6cff031fa6e115f2a7929c",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "014",
+      "title": "ASIは人類を滅ぼすのか：ベイズ推定と人間原理②",
+      "date": "2026-07-04",
+      "state": "ベイズの楽観的桁比較・旧評価",
+      "topics": [
+        "bayes",
+        "asi",
+        "ethics"
+      ],
+      "modules": [
+        "10_theory/07_bayes_objections.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/014.md",
+      "snapshot": "80_sources/014.md",
+      "sha256": "561a4c2d1ec55660fd34c32edb3993cd338f9ce45836d38db9b04ed743ceaa19",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "015",
+      "title": "ASIは人類を滅ぼすのか：ベイズ推定と人間原理③",
+      "date": "2026-07-05",
+      "state": "DOOM側分母の修正",
+      "topics": [
+        "bayes",
+        "asi",
+        "simulation"
+      ],
+      "modules": [
+        "10_theory/07_bayes_objections.md",
+        "10_theory/08_asi_ethics.md",
+        "10_theory/11_simulation_ontology.md"
+      ],
+      "card": "30_articles/015.md",
+      "snapshot": "80_sources/015.md",
+      "sha256": "2c694e5cc2423ccebe6fbfd08b4727d82f0d7069eefca6571ee74f36573f247c",
+      "notes_file": "90_meta/notes_007_015.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "016",
+      "title": "非倫理的ASIなら、意識あるシミュレーションを実行する方が自然ではないか",
+      "date": "2026-07-05",
+      "state": "非倫理ASI補論・推測",
+      "topics": [
+        "asi",
+        "simulation",
+        "bayes"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/016.md",
+      "snapshot": "80_sources/016.md",
+      "sha256": "24929cfdaaecba6eebdebdea9389cf62cb79ebed0e8456dd8369200bca953356",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "017",
+      "title": "Pereiraの議論：SSSSAと経験重み付け",
+      "date": "2026-07-05",
+      "state": "先行議論との対応・二次的紹介",
+      "topics": [
+        "measure",
+        "bayes",
+        "asi"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/07_bayes_objections.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/017.md",
+      "snapshot": "80_sources/017.md",
+      "sha256": "dc38dc7187587c143dad31d42b9072888d54e6262498c41f80141fe134886be1",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "018",
+      "title": "SSAとSIAの対立に関する私見",
+      "date": "2026-07-05",
+      "state": "SIA不採用・著者の批判",
+      "topics": [
+        "bayes",
+        "reference"
+      ],
+      "modules": [
+        "10_theory/07_bayes_objections.md",
+        "10_theory/02_reference.md"
+      ],
+      "card": "30_articles/018.md",
+      "snapshot": "80_sources/018.md",
+      "sha256": "ac409928bee4f403f7ee9cf35e21df5aa70bcac9e11f853f65444055114682d3",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "019",
+      "title": "なぜ「何も経験されない」のではなく、「何かが経験されている」のか",
+      "date": "2026-07-05",
+      "state": "存在論の補助仮説",
+      "topics": [
+        "ontology",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/019.md",
+      "snapshot": "80_sources/019.md",
+      "sha256": "11b01c9efc12bbeb1b7623c8dae9d590b150d59ea72aebf48541ecad092a71a3",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "020",
+      "title": "2030年代前半のAGIからASIへの急速移行",
+      "date": "2026-07-06",
+      "state": "時期予測旧版・条件付き",
+      "topics": [
+        "asi",
+        "forecast"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/12_forecasts.md"
+      ],
+      "card": "30_articles/020.md",
+      "snapshot": "80_sources/020.md",
+      "sha256": "a556daca862172c660615f1caad77f28a9c2c60042f03ba647a64ab7f112e7b4",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "021",
+      "title": "経験重み付けとLEVに届かない人たち",
+      "date": "2026-07-06",
+      "state": "LEV非到達者との整合性",
+      "topics": [
+        "future",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/06_future.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/021.md",
+      "snapshot": "80_sources/021.md",
+      "sha256": "afd23877e1df59268c6f6c621c9591663c648090fff18be61d81607b304ea182",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "022",
+      "title": "意識の物理現象的性質と、経験重み付けとの関係",
+      "date": "2026-07-11",
+      "state": "意識機序の接続案・未導出",
+      "topics": [
+        "consciousness",
+        "ontology",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/10_consciousness.md",
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/022.md",
+      "snapshot": "80_sources/022.md",
+      "sha256": "27ae3583d8e7757890d9546c27957e26eb06f8f63d3f63d04a3a3a5fe1a79d99",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "023",
+      "title": "超長寿時代を前に、私たちは今をどう生きるべきか",
+      "date": "2026-07-14",
+      "state": "生活上の随論・理論の証拠ではない",
+      "topics": [
+        "ethics",
+        "practice",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/13_personal_dialogue.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/023.md",
+      "snapshot": "80_sources/023.md",
+      "sha256": "3625d483012f9a16171ccd57674eab5c2d159988ee62588cc8456c50f8e97539",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "024",
+      "title": "意識は「巨視的な物理量」なのか？",
+      "date": "2026-07-14",
+      "state": "意識観三分類・当時の主観確率",
+      "topics": [
+        "consciousness",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/10_consciousness.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/024.md",
+      "snapshot": "80_sources/024.md",
+      "sha256": "6c0d751ee306966c95b8919900b4b05de9ec6f849b9e37c58f9dd9cb1d25a0ca",
+      "notes_file": "90_meta/notes_016_024.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "025",
+      "title": "有限保証下における超長期系列の受容方針――経験重み付けから導かれる事前記録",
+      "date": "2026-07-19",
+      "state": "筆者の条件付き事前意思記録・資料内言明",
+      "topics": [
+        "practice",
+        "identity",
+        "ethics",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/13_personal_dialogue.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/08_asi_ethics.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/025.md",
+      "snapshot": "80_sources/025.md",
+      "sha256": "8769db5fae45530833a40918b4aaf896f3dbd3f7258885adc4a9e5d446cd8143",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "026",
+      "title": "私は、宇宙の終わりまで継続するしかないのかもしれない――経験重み付けを、以前ほど楽観的に見られなくなった",
+      "date": "2026-07-19",
+      "state": "筆者の個人的解釈・仮説的懸念",
+      "topics": [
+        "practice",
+        "identity",
+        "ethics"
+      ],
+      "modules": [
+        "10_theory/13_personal_dialogue.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/026.md",
+      "snapshot": "80_sources/026.md",
+      "sha256": "bbd7d336469eea269151830534449962e800e0b8e45d91b55a94ddf4f1a12b4a",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "027",
+      "title": "質問できる主体だけを数えればよい――その反論は何を説明していないのか",
+      "date": "2026-07-20",
+      "state": "参照クラス反論の詳細",
+      "topics": [
+        "reference",
+        "objections",
+        "bayes"
+      ],
+      "modules": [
+        "10_theory/02_reference.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/027.md",
+      "snapshot": "80_sources/027.md",
+      "sha256": "3a43cb93d65ef47ed715d9c55299ef9f09c872f2d7102d679708849c19cc203a",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "028",
+      "title": "経験重み付け仮説の再考――個体数とニューロン数の二乗を考慮しても、人間は不利なのか",
+      "date": "2026-07-20",
+      "state": "初発×全脳二乗の試算・旧数値",
+      "topics": [
+        "numbers",
+        "measure",
+        "onset"
+      ],
+      "modules": [
+        "10_theory/03_numbers.md",
+        "10_theory/01_measure.md",
+        "10_theory/05_onset.md"
+      ],
+      "card": "30_articles/028.md",
+      "snapshot": "80_sources/028.md",
+      "sha256": "25123633b29abed7c36116ba873df58552820900e067399b8abc87008a1011fe",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "029",
+      "title": "自己位置をめぐる三つの仮説",
+      "date": "2026-07-22",
+      "state": "三仮説の分類基盤",
+      "topics": [
+        "measure",
+        "onset",
+        "objections"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/05_onset.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/029.md",
+      "snapshot": "80_sources/029.md",
+      "sha256": "321d109833ab25c43b4993500e20473a37d87f33300b7edc27b77c90f251d53e",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "030",
+      "title": "意識初発状態測度論は有力かもしれない",
+      "date": "2026-07-22",
+      "state": "一時的初発支持・後に撤回",
+      "topics": [
+        "onset",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/05_onset.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/030.md",
+      "snapshot": "80_sources/030.md",
+      "sha256": "d10ed2643b01b5eb9fc207a3754f98a791abd37644d256946609d041e21ea774",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "031",
+      "title": "完成系列測度論から意識初発状態測度論へ――現在の見解変更",
+      "date": "2026-07-22",
+      "state": "初発支持90%の歴史点・撤回済",
+      "topics": [
+        "onset",
+        "history"
+      ],
+      "modules": [
+        "10_theory/05_onset.md",
+        "20_history/EVOLUTION.md"
+      ],
+      "card": "30_articles/031.md",
+      "snapshot": "80_sources/031.md",
+      "sha256": "ae3472643b42bb6c3d42fec69712f05ba68f093c62ee1a8e7121a8229519dba1",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "032",
+      "title": "完成系列測度論が少し復活した",
+      "date": "2026-07-22",
+      "state": "完成系列の部分復帰・歴史点",
+      "topics": [
+        "onset",
+        "history"
+      ],
+      "modules": [
+        "10_theory/05_onset.md",
+        "20_history/EVOLUTION.md"
+      ],
+      "card": "30_articles/032.md",
+      "snapshot": "80_sources/032.md",
+      "sha256": "afbe613817bd301a2881304c5fba81c4a8fbf4749f715f179d315db15a65f05a",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "033",
+      "title": "意識初発状態測度論でほぼ固まった",
+      "date": "2026-07-22",
+      "state": "閾値型初発論85%・撤回済",
+      "topics": [
+        "onset",
+        "history"
+      ],
+      "modules": [
+        "10_theory/05_onset.md",
+        "20_history/EVOLUTION.md"
+      ],
+      "card": "30_articles/033.md",
+      "snapshot": "80_sources/033.md",
+      "sha256": "cf84d58e4a8789d69215c79981d0bba1486521676f5cabea15cc0993d44ad5b2",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "034",
+      "title": "完成系列測度論を再検討する",
+      "date": "2026-07-26",
+      "state": "完成系列への再転換",
+      "topics": [
+        "onset",
+        "measure",
+        "history"
+      ],
+      "modules": [
+        "10_theory/05_onset.md",
+        "10_theory/01_measure.md",
+        "20_history/EVOLUTION.md"
+      ],
+      "card": "30_articles/034.md",
+      "snapshot": "80_sources/034.md",
+      "sha256": "64c8ff369740febe357e7e04bea5628f0488e40f2839420ce9a60b3191d64fa9",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "035",
+      "title": "現前性",
+      "date": "2026-07-27",
+      "state": "現前性・系列間/内区分の原型",
+      "topics": [
+        "time",
+        "measure",
+        "identity",
+        "history"
+      ],
+      "modules": [
+        "10_theory/04_time_identity.md",
+        "10_theory/01_measure.md",
+        "20_history/EVOLUTION.md"
+      ],
+      "card": "30_articles/035.md",
+      "snapshot": "80_sources/035.md",
+      "sha256": "4ee6ea1dc51c9d4bd129b9a3e9453aa275f3a18ae5cf8c027b44675101264644",
+      "notes_file": "90_meta/notes_025_035.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "036",
+      "title": "ニューロン数による重み付けは成立しない",
+      "date": "2026-07-29",
+      "state": "全脳重み否定・038/070で部分失効",
+      "topics": [
+        "numbers",
+        "measure",
+        "reference"
+      ],
+      "modules": [
+        "10_theory/03_numbers.md",
+        "10_theory/01_measure.md",
+        "10_theory/02_reference.md"
+      ],
+      "card": "30_articles/036.md",
+      "snapshot": "80_sources/036.md",
+      "sha256": "1f94a53ac91d715d82eb859b096268ba996411b1be17f2c650aa8350b763e4b0",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "037",
+      "title": "「増やさない」は倫理ではなく算術から出る",
+      "date": "2026-07-29",
+      "state": "非増殖算術の強い版・要前提点検",
+      "topics": [
+        "future",
+        "ethics",
+        "governance"
+      ],
+      "modules": [
+        "10_theory/06_future.md",
+        "10_theory/08_asi_ethics.md",
+        "10_theory/09_governance.md"
+      ],
+      "card": "30_articles/037.md",
+      "snapshot": "80_sources/037.md",
+      "sha256": "2db06eaae0afddd22ccff2a77ac8f840ab4cc112fd22f7d588f9954119465be7",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "038",
+      "title": "補正：大脳皮質ニューロン数に限定して計算し直す",
+      "date": "2026-08-01",
+      "state": "036の明示的訂正・n1単独救済否定",
+      "topics": [
+        "numbers",
+        "measure",
+        "consciousness"
+      ],
+      "modules": [
+        "10_theory/03_numbers.md",
+        "10_theory/01_measure.md",
+        "10_theory/10_consciousness.md"
+      ],
+      "card": "30_articles/038.md",
+      "snapshot": "80_sources/038.md",
+      "sha256": "a152bb1e65d84a3e2777d248acd09242d86853ad632f9989ec434f4c90c32084",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "039",
+      "title": "ゾウと人間だけの世界を考える",
+      "date": "2026-08-01",
+      "state": "ゾウのみの頑健性思考実験",
+      "topics": [
+        "reference",
+        "numbers",
+        "consciousness"
+      ],
+      "modules": [
+        "10_theory/02_reference.md",
+        "10_theory/03_numbers.md",
+        "10_theory/10_consciousness.md"
+      ],
+      "card": "30_articles/039.md",
+      "snapshot": "80_sources/039.md",
+      "sha256": "351f445402714af1cd95a2d4926ede1ae47bc7d00d010d5758e794f600524043",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "040",
+      "title": "なぜゾウは文明を作らなかったのか",
+      "date": "2026-08-01",
+      "state": "比較認知の随論",
+      "topics": [
+        "consciousness",
+        "reference"
+      ],
+      "modules": [
+        "10_theory/10_consciousness.md",
+        "10_theory/02_reference.md"
+      ],
+      "card": "30_articles/040.md",
+      "snapshot": "80_sources/040.md",
+      "sha256": "ac431a9999b48842360985aa1c2a32814884260611daf9f070a9cf67b4093e6f",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "041",
+      "title": "「説明は要らない」という立場について",
+      "date": "2026-08-02",
+      "state": "測度否定論の初期整理・067で精密化",
+      "topics": [
+        "objections",
+        "bayes"
+      ],
+      "modules": [
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/041.md",
+      "snapshot": "80_sources/041.md",
+      "sha256": "f9aa523c6439ee972f482b12ba9cef6c16c5fdbe04be3dd64ee82a06fcaeb497",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "042",
+      "title": "初発論はなぜ落ちたか",
+      "date": "2026-08-02",
+      "state": "初発論を落とした理由・旧数値含む",
+      "topics": [
+        "onset",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/05_onset.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/042.md",
+      "snapshot": "80_sources/042.md",
+      "sha256": "b25b30a8c8027be4596ce72a923bf3e7bc8d88f3a45869a3c31e743910135edd",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "043",
+      "title": "分離脳からインデックス説へ",
+      "date": "2026-08-03",
+      "state": "インデックス説提案・044で撤回",
+      "topics": [
+        "identity",
+        "consciousness",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/04_time_identity.md",
+        "10_theory/10_consciousness.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/043.md",
+      "snapshot": "80_sources/043.md",
+      "sha256": "47e298121ae9ef60c1f51a0bc93a51b40b8a09d6586bbe340c2741d7fc28fc09",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "044",
+      "title": "インデックス説は閉じた",
+      "date": "2026-08-03",
+      "state": "インデックス説の明示的撤回",
+      "topics": [
+        "identity",
+        "consciousness",
+        "history"
+      ],
+      "modules": [
+        "10_theory/04_time_identity.md",
+        "10_theory/10_consciousness.md",
+        "20_history/EVOLUTION.md"
+      ],
+      "card": "30_articles/044.md",
+      "snapshot": "80_sources/044.md",
+      "sha256": "858d0650979c34d655ae27f53954b6f15bb8b0ab2f0c52201f550d7107d95cc8",
+      "notes_file": "90_meta/notes_036_044.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "045",
+      "title": "クオリアの異常な多様さを説明できそうな仮説",
+      "date": "2026-08-05",
+      "state": "クオリア状態空間の着想・未具体化",
+      "topics": [
+        "consciousness",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/10_consciousness.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/045.md",
+      "snapshot": "80_sources/045.md",
+      "sha256": "bbf5a3dfd75bd9a8ba9ab4cb4d16ffa7dc6c3fd0a4e3f14ba31fa03bd68f6cd1",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "046",
+      "title": "意識の起源は、皮質ではないかもしれない",
+      "date": "2026-08-05",
+      "state": "皮質必須説への反例候補・未決",
+      "topics": [
+        "consciousness",
+        "reference",
+        "measure"
+      ],
+      "modules": [
+        "10_theory/10_consciousness.md",
+        "10_theory/02_reference.md",
+        "10_theory/01_measure.md"
+      ],
+      "card": "30_articles/046.md",
+      "snapshot": "80_sources/046.md",
+      "sha256": "5819638a9cdbba4792d4fb6ec4287ac265ec6f22cf933d1b4a435aebb587c588",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "047",
+      "title": "わずかでも増やしてはいけない──ではどこまで広がれるのか",
+      "date": "2026-08-05",
+      "state": "非増殖と空間配置・強い補助仮説",
+      "topics": [
+        "governance",
+        "future",
+        "ethics"
+      ],
+      "modules": [
+        "10_theory/09_governance.md",
+        "10_theory/06_future.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/047.md",
+      "snapshot": "80_sources/047.md",
+      "sha256": "23d339e2eaeabe62701ea06b6d5b1cbff4f68cb1bc21d6aec026b53c7f68fba1",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "048",
+      "title": "蟻の巣論法──超長寿は、それ自体が目的でなければ説明できない",
+      "date": "2026-08-05",
+      "state": "長寿から価値を逆算する補助論",
+      "topics": [
+        "asi",
+        "ethics",
+        "future"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/048.md",
+      "snapshot": "80_sources/048.md",
+      "sha256": "cb0bb9534c513badcc10ed33b128d3044163e639106a38daa2d1661c1db1cc2c",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "049",
+      "title": "なぜ超知能は人間を大事にするのか──価値の対象は能力ではなく、主体の連続性",
+      "date": "2026-08-05",
+      "state": "継続価値の起源探索・未決",
+      "topics": [
+        "asi",
+        "ethics",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/049.md",
+      "snapshot": "80_sources/049.md",
+      "sha256": "45fe24fcd49d790426a35f85a067f9c7d1eff76df82a3a384336c4fa7f1e1a01",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "050",
+      "title": "AGI/ASI到来時期を、他人の予測の癖まで含めて見積もる",
+      "date": "2026-08-05",
+      "state": "2026-08-05時点の予測・外部主張未照合",
+      "topics": [
+        "forecast",
+        "asi"
+      ],
+      "modules": [
+        "10_theory/12_forecasts.md",
+        "10_theory/08_asi_ethics.md"
+      ],
+      "card": "30_articles/050.md",
+      "snapshot": "80_sources/050.md",
+      "sha256": "dc7f9b594e530b1b69a685e928d98517e6e10f34710a97c73bd6f6aa94fb3dc0",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "051",
+      "title": "LEVの確率を、生物物理から見積もる",
+      "date": "2026-08-05",
+      "state": "LEVの主観確率モデル・後半は統治問題",
+      "topics": [
+        "forecast",
+        "future",
+        "numbers"
+      ],
+      "modules": [
+        "10_theory/12_forecasts.md",
+        "10_theory/06_future.md",
+        "10_theory/03_numbers.md"
+      ],
+      "card": "30_articles/051.md",
+      "snapshot": "80_sources/051.md",
+      "sha256": "f30bc18eafe58c17e36c109f08241aefc0b715b58462afcb8ce6a3894510816f",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "052",
+      "title": "閑話：Claudeの含意表現能力の極限的な高さ",
+      "date": "2026-08-06",
+      "state": "編集された対話記録・理論証拠から分離",
+      "topics": [
+        "dialogue",
+        "consciousness",
+        "practice"
+      ],
+      "modules": [
+        "10_theory/13_personal_dialogue.md",
+        "10_theory/10_consciousness.md"
+      ],
+      "card": "30_articles/052.md",
+      "snapshot": "80_sources/052.md",
+      "sha256": "4fb82300f73f3b1561af5ee59e14cbb22fb8488290bcf055ef343765c1761e74",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "053",
+      "title": "非倫理的ASIは、私の理論と両立しない",
+      "date": "2026-08-08",
+      "state": "許容ASI像を絞る条件付き議論",
+      "topics": [
+        "asi",
+        "ethics",
+        "simulation"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/11_simulation_ontology.md"
+      ],
+      "card": "30_articles/053.md",
+      "snapshot": "80_sources/053.md",
+      "sha256": "5ab27cdb268c75918c311446f9ca5cefd2a34c1ac147020ca309f78383b78175",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "054",
+      "title": "ASIが承認する人間を作る、という失敗の形",
+      "date": "2026-08-08",
+      "state": "承認最適化による意識生成の追加経路",
+      "topics": [
+        "asi",
+        "simulation",
+        "ethics"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/11_simulation_ontology.md"
+      ],
+      "card": "30_articles/054.md",
+      "snapshot": "80_sources/054.md",
+      "sha256": "1a892317733af86d8da2e641b81b11de0c4348608b85cbaec02c45011c2d476f",
+      "notes_file": "90_meta/notes_045_054.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "055",
+      "title": "生殖の非対称性を経由する超長寿",
+      "date": "2026-08-08",
+      "state": "ケース2→倫理の飛躍を明示修正",
+      "topics": [
+        "ethics",
+        "asi",
+        "future"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/055.md",
+      "snapshot": "80_sources/055.md",
+      "sha256": "c39463369b27871b9e87005321b94ea4ee87fbf3263fd621c1a08cf358d5ac71",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "056",
+      "title": "なぜ私はファストテイクオフに賭けているのか",
+      "date": "2026-08-10",
+      "state": "現在のfast移行論・条件付き予測",
+      "topics": [
+        "forecast",
+        "asi",
+        "ethics",
+        "simulation"
+      ],
+      "modules": [
+        "10_theory/12_forecasts.md",
+        "10_theory/08_asi_ethics.md",
+        "10_theory/11_simulation_ontology.md"
+      ],
+      "card": "30_articles/056.md",
+      "snapshot": "80_sources/056.md",
+      "sha256": "52f7896b9184040be0f1fc2cb9cbee20952634236fabcdb2b0f15720a94b9601",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "057",
+      "title": "モニタリング仮説という考え方",
+      "date": "2026-08-10",
+      "state": "明示的不採用のモニタリング仮説",
+      "topics": [
+        "simulation",
+        "objections",
+        "ontology"
+      ],
+      "modules": [
+        "10_theory/11_simulation_ontology.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/057.md",
+      "snapshot": "80_sources/057.md",
+      "sha256": "0de24d24086becd9c60daaa655c6e7b4a264149ef56ef91c5da9dfeca48232a6",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "058",
+      "title": "ケース1が減らし、ケース2が保つという未来",
+      "date": "2026-08-10",
+      "state": "人口減少後保存の条件付きシナリオ",
+      "topics": [
+        "asi",
+        "future",
+        "governance"
+      ],
+      "modules": [
+        "10_theory/08_asi_ethics.md",
+        "10_theory/06_future.md",
+        "10_theory/09_governance.md"
+      ],
+      "card": "30_articles/058.md",
+      "snapshot": "80_sources/058.md",
+      "sha256": "da793c7009ba62c74fa40c797ae02b778fc1c8dae6e96e2e83f2fa5012ddc7af",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "059",
+      "title": "マインドアップロードは、たぶん誰も選ばない",
+      "date": "2026-08-11",
+      "state": "アップロードの検証/選好論・推測",
+      "topics": [
+        "identity",
+        "future",
+        "practice"
+      ],
+      "modules": [
+        "10_theory/04_time_identity.md",
+        "10_theory/06_future.md",
+        "10_theory/13_personal_dialogue.md"
+      ],
+      "card": "30_articles/059.md",
+      "snapshot": "80_sources/059.md",
+      "sha256": "ad5b181ff63103772183ee32c7efae6bcca074623a8fe3a2e0db4eafe40869bb",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "060",
+      "title": "第二部：未来の延べ人数は増えない",
+      "date": "2026-08-11",
+      "state": "後期第二部・現行の分岐構造",
+      "topics": [
+        "future",
+        "bayes",
+        "measure",
+        "time"
+      ],
+      "modules": [
+        "10_theory/06_future.md",
+        "10_theory/07_bayes_objections.md",
+        "10_theory/01_measure.md",
+        "10_theory/04_time_identity.md"
+      ],
+      "card": "30_articles/060.md",
+      "snapshot": "80_sources/060.md",
+      "sha256": "63bf3835f13bbe00d932037c336c0dce0436c0ab8495987724125c376be2b579",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "061",
+      "title": "第三部：どれだけの系列長が必要か",
+      "date": "2026-08-12",
+      "state": "一様測度の必要L・上限は後に失効",
+      "topics": [
+        "numbers",
+        "future"
+      ],
+      "modules": [
+        "10_theory/03_numbers.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/061.md",
+      "snapshot": "80_sources/061.md",
+      "sha256": "971ca009fa2e71a58772e066929363780bb5e3611d99bb9bbf4caca6df98ce12",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "062",
+      "title": "第四部：上限を超えるには何が必要か",
+      "date": "2026-08-12",
+      "state": "動物側の操作による上限解除案・不採用/後に不要",
+      "topics": [
+        "numbers",
+        "ethics",
+        "future"
+      ],
+      "modules": [
+        "10_theory/03_numbers.md",
+        "10_theory/08_asi_ethics.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/062.md",
+      "snapshot": "80_sources/062.md",
+      "sha256": "1f5b1fb639719501a40fbd0c0e08b60f48a4522d775a5f684a6ca83ee5cf0f77",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "063",
+      "title": "第五部：なぜ個体年で数えるのか",
+      "date": "2026-08-15",
+      "state": "測度の時間加法性の基礎",
+      "topics": [
+        "measure",
+        "time",
+        "onset",
+        "consciousness"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/05_onset.md",
+        "10_theory/10_consciousness.md"
+      ],
+      "card": "30_articles/063.md",
+      "snapshot": "80_sources/063.md",
+      "sha256": "90b2290fa18473ff84d021915ad5d07614ef196a40142c6d8707a89e977e1e1f",
+      "notes_file": "90_meta/notes_055_063.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "064",
+      "title": "第六部：経験の速さに種差はあるか",
+      "date": "2026-08-16",
+      "state": "自然種間の時間較正・070で構成比更新",
+      "topics": [
+        "time",
+        "numbers",
+        "consciousness"
+      ],
+      "modules": [
+        "10_theory/04_time_identity.md",
+        "10_theory/03_numbers.md",
+        "10_theory/10_consciousness.md"
+      ],
+      "card": "30_articles/064.md",
+      "snapshot": "80_sources/064.md",
+      "sha256": "874a1f58d2689b457df47e1471fa954c167922cc5b56c43cc46c954566b829e9",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "065",
+      "title": "第七部：設計変数としての変換率",
+      "date": "2026-08-23",
+      "state": "魚類と工学加速の旧主モデル・070/073で必要条件更新",
+      "topics": [
+        "reference",
+        "numbers",
+        "time",
+        "future",
+        "identity"
+      ],
+      "modules": [
+        "10_theory/02_reference.md",
+        "10_theory/03_numbers.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/065.md",
+      "snapshot": "80_sources/065.md",
+      "sha256": "e6ae93c9edde9d7396752b2bab2c5896a16898b653b61e221b97259c5c723c64",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "066",
+      "title": "第八部：系列内部の時点について",
+      "date": "2026-08-23",
+      "state": "系列内時点免除の中心論証",
+      "topics": [
+        "time",
+        "identity",
+        "bayes",
+        "objections"
+      ],
+      "modules": [
+        "10_theory/04_time_identity.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/066.md",
+      "snapshot": "80_sources/066.md",
+      "sha256": "8826ef74417d80f517dd3796653d4fcd8c36bebd00522e0a45363790050a92f0",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "067",
+      "title": "第九部：測度否定論の整理",
+      "date": "2026-08-24",
+      "state": "測度否定への現行整理・尤度値は072更新",
+      "topics": [
+        "objections",
+        "bayes",
+        "reference"
+      ],
+      "modules": [
+        "10_theory/07_bayes_objections.md",
+        "10_theory/02_reference.md"
+      ],
+      "card": "30_articles/067.md",
+      "snapshot": "80_sources/067.md",
+      "sha256": "63c8d357af81baed97cadaece1e149075ccb31f3eea97c09d67b270ad147dd80",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "068",
+      "title": "第十部：意識量は積分されるか",
+      "date": "2026-08-24",
+      "state": "C1/C2/C3分類・C2否定は070が明示訂正",
+      "topics": [
+        "measure",
+        "onset",
+        "consciousness",
+        "objections"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/05_onset.md",
+        "10_theory/10_consciousness.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/068.md",
+      "snapshot": "80_sources/068.md",
+      "sha256": "2fd22a708cb1686244ddd95c88f618520504625c788387c69a1a8fee96eaac29",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "069",
+      "title": "第一部：なぜ私は他の哺乳類ではないのか",
+      "date": "2026-08-26",
+      "state": "改稿された第一部・070以前の指数未定版",
+      "topics": [
+        "reference",
+        "numbers",
+        "measure",
+        "history"
+      ],
+      "modules": [
+        "10_theory/02_reference.md",
+        "10_theory/03_numbers.md",
+        "10_theory/01_measure.md",
+        "20_history/EVOLUTION.md"
+      ],
+      "card": "30_articles/069.md",
+      "snapshot": "80_sources/069.md",
+      "sha256": "5b7283faf4017cd42f2b6db653e7819345458c1b1c2c3485139997a05819f8d1",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "070",
+      "title": "第十一部：指数は測れる",
+      "date": "2026-08-26",
+      "state": "現行の主要改訂・n1導入",
+      "topics": [
+        "measure",
+        "numbers",
+        "consciousness",
+        "time",
+        "future"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/03_numbers.md",
+        "10_theory/10_consciousness.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/06_future.md"
+      ],
+      "card": "30_articles/070.md",
+      "snapshot": "80_sources/070.md",
+      "sha256": "819aeb2903bdc1058165cf937eadc04245086485a13bc02a82481d751665233b",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": true
+    },
+    {
+      "id": "071",
+      "title": "第十二部：初発論はなぜ落ちるか",
+      "date": "2026-08-26",
+      "state": "初発棄却の最終整理・系列免除にも未解決課題",
+      "topics": [
+        "onset",
+        "measure",
+        "identity",
+        "time",
+        "objections"
+      ],
+      "modules": [
+        "10_theory/05_onset.md",
+        "10_theory/01_measure.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/071.md",
+      "snapshot": "80_sources/071.md",
+      "sha256": "5f315aa2092fd202035bfe3a2f25835dc658eea3c16ac6c4d01cedb492321e36",
+      "notes_file": "90_meta/notes_064_071.jsonl",
+      "has_editorial_addendum": false
+    },
+    {
+      "id": "072",
+      "title": "なぜ私は人間なのか：現時点の体系",
+      "date": "2026-08-26",
+      "state": "現行体系の主文・072/073併読",
+      "topics": [
+        "measure",
+        "reference",
+        "numbers",
+        "future",
+        "time",
+        "objections"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/02_reference.md",
+        "10_theory/03_numbers.md",
+        "10_theory/06_future.md",
+        "10_theory/04_time_identity.md",
+        "10_theory/07_bayes_objections.md"
+      ],
+      "card": "30_articles/072.md",
+      "snapshot": "80_sources/072.md",
+      "sha256": "2ed8748aa6611b1ef594bbd3698a6767108c1d019a5b6928c5cb9bd64815df4a",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": true
+    },
+    {
+      "id": "073",
+      "title": "第十三部：分母はいつ閉じるか",
+      "date": "2026-08-26",
+      "state": "現行補完・旧上限を失効",
+      "topics": [
+        "numbers",
+        "future",
+        "reference"
+      ],
+      "modules": [
+        "10_theory/03_numbers.md",
+        "10_theory/06_future.md",
+        "10_theory/02_reference.md"
+      ],
+      "card": "30_articles/073.md",
+      "snapshot": "80_sources/073.md",
+      "sha256": "95866b6cdd67cbf97f401fd27d27a4955c776cbf3e4f528debae58832eb3469f",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": true
+    },
+    {
+      "id": "074",
+      "title": "第十四部：紐の比喩",
+      "date": "2026-08-27",
+      "state": "現行説明比喩・新命題なし",
+      "topics": [
+        "measure",
+        "numbers"
+      ],
+      "modules": [
+        "10_theory/01_measure.md",
+        "10_theory/03_numbers.md"
+      ],
+      "card": "30_articles/074.md",
+      "snapshot": "80_sources/074.md",
+      "sha256": "4ae6d6865bead0bf87bb1bb0847aee436a65d762b0ea4d8af82222c9e224a64e",
+      "notes_file": "90_meta/reading-notes.jsonl",
+      "has_editorial_addendum": false
+    }
+  ]
+}

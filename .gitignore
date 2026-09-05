@@ -1,0 +1,21 @@
+# Local system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime dependencies and caches
+node_modules/
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.swp
+~$*

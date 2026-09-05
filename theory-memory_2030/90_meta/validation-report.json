@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-09-05T08:28:29.010Z",
+  "status": "PASS",
+  "articles": 74,
+  "full_read_attestations": 74,
+  "cards": 74,
+  "theory_modules": 13,
+  "claim_nodes": 19,
+  "local_markdown_links_checked": 543,
+  "source_bytes": 731792,
+  "source_characters": 283931,
+  "entry_characters": 1764,
+  "entry_character_reduction": 0.9937872229520552,
+  "module_characters": [
+    {
+      "file": "10_theory/01_measure.md",
+      "characters": 1330
+    },
+    {
+      "file": "10_theory/02_reference.md",
+      "characters": 1190
+    },
+    {
+      "file": "10_theory/03_numbers.md",
+      "characters": 2619
+    },
+    {
+      "file": "10_theory/04_time_identity.md",
+      "characters": 1249
+    },
+    {
+      "file": "10_theory/05_onset.md",
+      "characters": 1084
+    },
+    {
+      "file": "10_theory/06_future.md",
+      "characters": 1348
+    },
+    {
+      "file": "10_theory/07_bayes_objections.md",
+      "characters": 1397
+    },
+    {
+      "file": "10_theory/08_asi_ethics.md",
+      "characters": 1609
+    },
+    {
+      "file": "10_theory/09_governance.md",
+      "characters": 1034
+    },
+    {
+      "file": "10_theory/10_consciousness.md",
+      "characters": 1253
+    },
+    {
+      "file": "10_theory/11_simulation_ontology.md",
+      "characters": 1139
+    },
+    {
+      "file": "10_theory/12_forecasts.md",
+      "characters": 1154
+    },
+    {
+      "file": "10_theory/13_personal_dialogue.md",
+      "characters": 1475
+    }
+  ],
+  "scope": "snapshot hashes; explicit human/model reading attestations; card/index/graph coverage; local links; not semantic or scientific proof",
+  "problems": []
+}

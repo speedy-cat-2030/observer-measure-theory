@@ -1,0 +1,485 @@
+{
+  "schema_version": 1,
+  "edge_meaning": "depends_on: changing a parent requires reconsidering this node, not logical entailment",
+  "status_legend": {
+    "A-current": "author current hypothesis",
+    "A-conditional": "author conditional auxiliary inference",
+    "A-unresolved": "author acknowledges unresolved",
+    "E-model": "editorial explicit calculation of source model"
+  },
+  "nodes": [
+    {
+      "id": "C-REFERENCE",
+      "title": "意識資格と地球魚類までの参照",
+      "status": "A-current",
+      "sources": [
+        "005",
+        "027",
+        "046",
+        "065",
+        "067",
+        "072",
+        "073"
+      ],
+      "file": "10_theory/02_reference.md",
+      "depends_on": [],
+      "issues": [
+        "O06",
+        "O07",
+        "O09",
+        "O14"
+      ]
+    },
+    {
+      "id": "C-MEASURE",
+      "title": "分離したクオリアの量から系列確率へ",
+      "status": "A-current",
+      "sources": [
+        "063",
+        "068",
+        "070",
+        "072"
+      ],
+      "file": "10_theory/01_measure.md",
+      "depends_on": [
+        "C-REFERENCE"
+      ],
+      "issues": [
+        "O01"
+      ]
+    },
+    {
+      "id": "C-SUBSTRATE",
+      "title": "意識基質と皮質内容量代理の関係",
+      "status": "A-unresolved",
+      "sources": [
+        "004",
+        "022",
+        "024",
+        "038",
+        "043",
+        "044",
+        "045",
+        "046",
+        "070",
+        "071"
+      ],
+      "file": "10_theory/10_consciousness.md",
+      "depends_on": [],
+      "issues": [
+        "O02",
+        "O15"
+      ]
+    },
+    {
+      "id": "C-N1",
+      "title": "同時点の量を皮質/外套Nの1乗で近似",
+      "status": "A-current",
+      "sources": [
+        "038",
+        "063",
+        "069",
+        "070",
+        "072"
+      ],
+      "file": "10_theory/01_measure.md",
+      "depends_on": [
+        "C-MEASURE",
+        "C-SUBSTRATE"
+      ],
+      "issues": [
+        "O02",
+        "O03",
+        "O07"
+      ]
+    },
+    {
+      "id": "C-TIME",
+      "title": "時点間の加算と経験時間変換",
+      "status": "A-current",
+      "sources": [
+        "063",
+        "064",
+        "065",
+        "070",
+        "071",
+        "072"
+      ],
+      "file": "10_theory/01_measure.md",
+      "depends_on": [
+        "C-MEASURE"
+      ],
+      "issues": [
+        "O01",
+        "O05"
+      ]
+    },
+    {
+      "id": "C-SERIES",
+      "title": "系列の因果的連続性と境界",
+      "status": "A-unresolved",
+      "sources": [
+        "007",
+        "025",
+        "035",
+        "044",
+        "059",
+        "066",
+        "071",
+        "072"
+      ],
+      "file": "10_theory/04_time_identity.md",
+      "depends_on": [],
+      "issues": [
+        "O04",
+        "O15"
+      ],
+      "discussion_files": [
+        "60_discussions/D002_theory_construction_longevity.md"
+      ]
+    },
+    {
+      "id": "C-EXEMPT",
+      "title": "系列内時点は再抽選しない",
+      "status": "A-current",
+      "sources": [
+        "035",
+        "063",
+        "066",
+        "071",
+        "072"
+      ],
+      "file": "10_theory/04_time_identity.md",
+      "depends_on": [
+        "C-SERIES",
+        "C-TIME"
+      ],
+      "issues": [
+        "O04",
+        "O06"
+      ]
+    },
+    {
+      "id": "C-ONSET",
+      "title": "初発型を退け積分型を採る",
+      "status": "A-current",
+      "sources": [
+        "029",
+        "030",
+        "031",
+        "032",
+        "033",
+        "034",
+        "035",
+        "042",
+        "063",
+        "068",
+        "071"
+      ],
+      "file": "10_theory/05_onset.md",
+      "depends_on": [
+        "C-MEASURE",
+        "C-TIME",
+        "C-SERIES"
+      ],
+      "issues": [
+        "O04",
+        "O05",
+        "O08"
+      ]
+    },
+    {
+      "id": "C-SAMPLING",
+      "title": "SSA側の世界間推論とSIA相殺",
+      "status": "A-current",
+      "sources": [
+        "013",
+        "017",
+        "018",
+        "027",
+        "060",
+        "067"
+      ],
+      "file": "10_theory/07_bayes_objections.md",
+      "depends_on": [
+        "C-REFERENCE"
+      ],
+      "issues": [
+        "O06"
+      ]
+    },
+    {
+      "id": "C-NUMBERS",
+      "title": "n1の過去人類比とストック/フロー",
+      "status": "E-model",
+      "sources": [
+        "061",
+        "064",
+        "065",
+        "069",
+        "070",
+        "072",
+        "073",
+        "074"
+      ],
+      "file": "10_theory/03_numbers.md",
+      "depends_on": [
+        "C-N1",
+        "C-TIME",
+        "C-REFERENCE"
+      ],
+      "issues": [
+        "O07",
+        "O08",
+        "N01",
+        "N02",
+        "N04",
+        "N05",
+        "N08",
+        "N09",
+        "N10"
+      ]
+    },
+    {
+      "id": "C-CUMULATIVE",
+      "title": "人口一定でも新規系列が累積する",
+      "status": "A-current",
+      "sources": [
+        "009",
+        "037",
+        "047",
+        "060",
+        "072"
+      ],
+      "file": "10_theory/06_future.md",
+      "depends_on": [
+        "C-SERIES",
+        "C-SAMPLING"
+      ],
+      "issues": [
+        "O06",
+        "O12"
+      ]
+    },
+    {
+      "id": "C-B",
+      "title": "出生停止と既存系列長寿で二つの希少性を軽減",
+      "status": "A-conditional",
+      "sources": [
+        "001",
+        "005",
+        "006",
+        "007",
+        "021",
+        "060",
+        "070",
+        "071",
+        "072"
+      ],
+      "file": "10_theory/06_future.md",
+      "depends_on": [
+        "C-CUMULATIVE",
+        "C-EXEMPT",
+        "C-NUMBERS",
+        "C-ONSET"
+      ],
+      "issues": [
+        "O04",
+        "O06",
+        "O10",
+        "O11",
+        "O12"
+      ],
+      "discussion_files": [
+        "60_discussions/D002_theory_construction_longevity.md"
+      ]
+    },
+    {
+      "id": "C-FINITE",
+      "title": "有限動物流量なら条件付きでPが1へ近づく",
+      "status": "A-conditional",
+      "sources": [
+        "062",
+        "072",
+        "073"
+      ],
+      "file": "10_theory/06_future.md",
+      "depends_on": [
+        "C-B",
+        "C-NUMBERS",
+        "C-REFERENCE"
+      ],
+      "issues": [
+        "O09",
+        "O11",
+        "O14",
+        "N02",
+        "N03",
+        "N04"
+      ]
+    },
+    {
+      "id": "C-LR",
+      "title": "低い目との現行例示尤度比2.5e5",
+      "status": "A-conditional",
+      "sources": [
+        "013",
+        "014",
+        "015",
+        "016",
+        "041",
+        "066",
+        "067",
+        "072"
+      ],
+      "file": "10_theory/07_bayes_objections.md",
+      "depends_on": [
+        "C-B",
+        "C-SAMPLING",
+        "C-NUMBERS"
+      ],
+      "issues": [
+        "O06",
+        "O10",
+        "O13"
+      ],
+      "discussion_files": [
+        "60_discussions/D002_theory_construction_longevity.md"
+      ]
+    },
+    {
+      "id": "C-ASI",
+      "title": "長寿/非生成に整合するASI保存価値を探す",
+      "status": "A-conditional",
+      "sources": [
+        "002",
+        "006",
+        "008",
+        "014",
+        "015",
+        "016",
+        "048",
+        "049",
+        "053",
+        "054",
+        "055",
+        "056"
+      ],
+      "file": "10_theory/08_asi_ethics.md",
+      "depends_on": [
+        "C-B",
+        "C-SERIES"
+      ],
+      "issues": [
+        "O10",
+        "O12",
+        "O13"
+      ],
+      "discussion_files": [
+        "60_discussions/D001_asi_ethics_non_generation.md"
+      ]
+    },
+    {
+      "id": "C-GOVERNANCE",
+      "title": "厳密非増殖と中央統治の強い補助シナリオ",
+      "status": "A-conditional",
+      "sources": [
+        "009",
+        "037",
+        "047",
+        "058",
+        "062",
+        "065",
+        "070",
+        "073"
+      ],
+      "file": "10_theory/09_governance.md",
+      "depends_on": [
+        "C-CUMULATIVE",
+        "C-ASI",
+        "C-NUMBERS",
+        "C-FINITE"
+      ],
+      "issues": [
+        "O09",
+        "O10",
+        "O12"
+      ]
+    },
+    {
+      "id": "C-SIM",
+      "title": "基底現実/有限再帰末端の補助仮説",
+      "status": "A-conditional",
+      "sources": [
+        "003",
+        "005",
+        "010",
+        "011",
+        "012",
+        "016",
+        "019",
+        "022",
+        "054",
+        "056",
+        "057"
+      ],
+      "file": "10_theory/11_simulation_ontology.md",
+      "depends_on": [
+        "C-REFERENCE",
+        "C-SUBSTRATE"
+      ],
+      "issues": [
+        "O06",
+        "O14"
+      ]
+    },
+    {
+      "id": "C-FORECAST",
+      "title": "日付付きAGI/ASI/LEV予測とfast条件",
+      "status": "A-conditional",
+      "sources": [
+        "020",
+        "021",
+        "050",
+        "051",
+        "056"
+      ],
+      "file": "10_theory/12_forecasts.md",
+      "depends_on": [
+        "C-ASI"
+      ],
+      "issues": [
+        "O10",
+        "O11",
+        "N07"
+      ]
+    },
+    {
+      "id": "C-PERSONAL",
+      "title": "資料内選好/個人連続性の適用",
+      "status": "A-conditional",
+      "sources": [
+        "007",
+        "021",
+        "023",
+        "025",
+        "026",
+        "052",
+        "055",
+        "059"
+      ],
+      "file": "10_theory/13_personal_dialogue.md",
+      "depends_on": [
+        "C-SERIES",
+        "C-B"
+      ],
+      "issues": [
+        "O04",
+        "O15"
+      ],
+      "discussion_files": [
+        "60_discussions/D002_theory_construction_longevity.md"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3516 @@
+{
+  "schema_version": 2,
+  "created_at": "2026-09-05T00:18:53.708Z",
+  "source_root": "note-speedy_cat_2030-1_md",
+  "articles": [
+    {
+      "id": "001",
+      "original_name": "001_なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #1.md",
+      "source_path": "note-speedy_cat_2030-1_md/001_なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #1.md",
+      "snapshot": "80_sources/001.md",
+      "card": "30_articles/001.md",
+      "sha256": "563d0fd71ede954ace19533f2e1d97e41c29725ddf129fb532cb14de4d673cce",
+      "bytes": 8833,
+      "characters": 3361,
+      "lines": 103,
+      "date": "2026-06-25",
+      "url": "https://note.com/speedy_cat_2030/n/n97767533466a",
+      "title": "なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #1",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #1"
+        },
+        {
+          "line": 18,
+          "title": "## 人間原理という考え方"
+        },
+        {
+          "line": 26,
+          "title": "## そもそも現在だけを見ていていいのか"
+        },
+        {
+          "line": 32,
+          "title": "## 虫をやめて哺乳類だけで考えてみる"
+        },
+        {
+          "line": 44,
+          "title": "## ニューロン数で重み付けしたらどうなるか"
+        },
+        {
+          "line": 60,
+          "title": "## ボルツマン脳というさらに厄介な問題"
+        },
+        {
+          "line": 72,
+          "title": "## ここから先は完全に仮説である"
+        },
+        {
+          "line": 78,
+          "title": "## 経験重み付けという発想"
+        },
+        {
+          "line": 88,
+          "title": "## 一つの帰結"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "original_name": "002_超知能ですら、自身の存在目的は分からないのではないか──ケース1～3の超知能.md",
+      "source_path": "note-speedy_cat_2030-1_md/002_超知能ですら、自身の存在目的は分からないのではないか──ケース1～3の超知能.md",
+      "snapshot": "80_sources/002.md",
+      "card": "30_articles/002.md",
+      "sha256": "7f053a6e77aa42742ab9f47592619a22279d4337d72380dc971d4a14ae34559f",
+      "bytes": 12749,
+      "characters": 4738,
+      "lines": 350,
+      "date": "2026-06-27",
+      "url": "https://note.com/speedy_cat_2030/n/n12849445fc21",
+      "title": "超知能ですら、自身の存在目的は分からないのではないか──ケース1～3の超知能",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 超知能ですら、自身の存在目的は分からないのではないか──ケース1～3の超知能"
+        },
+        {
+          "line": 26,
+          "title": "## 1. ペーパークリップ・マキシマイザー型"
+        },
+        {
+          "line": 46,
+          "title": "## 2. 目的を持とうとするが、目的が分からない超知能"
+        },
+        {
+          "line": 70,
+          "title": "### この超知能はどう行動するのか"
+        },
+        {
+          "line": 146,
+          "title": "## 3. 宇宙を理解し、自ら目的を決定した超知能"
+        },
+        {
+          "line": 196,
+          "title": "## 問題は、超知能はどこまで進むのか"
+        },
+        {
+          "line": 246,
+          "title": "## 私の p(doom)"
+        },
+        {
+          "line": 286,
+          "title": "## 補足１：「超知能なら人類を作り直せるのでは？」という反論について"
+        },
+        {
+          "line": 324,
+          "title": "## 補足２：ASI自身の自己保存"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "original_name": "003_「この宇宙はシミュレーションである」──だから何なのか？.md",
+      "source_path": "note-speedy_cat_2030-1_md/003_「この宇宙はシミュレーションである」──だから何なのか？.md",
+      "snapshot": "80_sources/003.md",
+      "card": "30_articles/003.md",
+      "sha256": "03e9f21511d6bea164f901519e62e93e2fc022a2d3bb5ebde76356a4b43bc821",
+      "bytes": 7121,
+      "characters": 2637,
+      "lines": 163,
+      "date": "2026-06-27",
+      "url": "https://note.com/speedy_cat_2030/n/n903db443e6e9",
+      "title": "「この宇宙はシミュレーションである」──だから何なのか？",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 「この宇宙はシミュレーションである」──だから何なのか？"
+        },
+        {
+          "line": 22,
+          "title": "## ニック・ボストロムのシミュレーション仮説"
+        },
+        {
+          "line": 34,
+          "title": "## シミュレーションと現実を区別する意味はあるのか"
+        },
+        {
+          "line": 52,
+          "title": "## 私が考える宇宙の始まり"
+        },
+        {
+          "line": 90,
+          "title": "## シミュレーションなら唯一大きく変わること"
+        },
+        {
+          "line": 108,
+          "title": "## 目的は誰に関係しているのか"
+        },
+        {
+          "line": 130,
+          "title": "## 超知能は最大の観測ポイントではないか"
+        },
+        {
+          "line": 148,
+          "title": "## 「だから何？」への私なりの答え"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "original_name": "004_AIは「痛い」と言える。でも、本当に痛がれるのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/004_AIは「痛い」と言える。でも、本当に痛がれるのか.md",
+      "snapshot": "80_sources/004.md",
+      "card": "30_articles/004.md",
+      "sha256": "863f2ac64ff8d6019da6af842d4f1580498515f5d4f040219753bc44c9c8e02e",
+      "bytes": 9339,
+      "characters": 3286,
+      "lines": 87,
+      "date": "2026-06-28",
+      "url": "https://note.com/speedy_cat_2030/n/n02d7c066d2a5",
+      "title": "AIは「痛い」と言える。でも、本当に痛がれるのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# AIは「痛い」と言える。でも、本当に痛がれるのか"
+        },
+        {
+          "line": 20,
+          "title": "## 統合情報理論という魅力的な発想"
+        },
+        {
+          "line": 30,
+          "title": "## 情報が統合されていることと、実際に感じることは同じか"
+        },
+        {
+          "line": 52,
+          "title": "## 私の仮説：意識は未発見の物理現象ではないか"
+        },
+        {
+          "line": 68,
+          "title": "## AIは意識を持っているのか"
+        },
+        {
+          "line": 78,
+          "title": "## 結局、私たちはまだ「痛み」を知らない"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "original_name": "005_なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #2 反論.md",
+      "source_path": "note-speedy_cat_2030-1_md/005_なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #2 反論.md",
+      "snapshot": "80_sources/005.md",
+      "card": "30_articles/005.md",
+      "sha256": "6c1d7f7deb328362c22cc65f704550571ed07ddc4c3ae1707fdd1ce44f6b5320",
+      "bytes": 9097,
+      "characters": 3307,
+      "lines": 152,
+      "date": "2026-06-30",
+      "url": "https://note.com/speedy_cat_2030/n/nd1dcb5468239",
+      "title": "なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #2 反論",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# なぜ私たちは何京匹もいる「虫」ではなく、たった80億人しかいない「人間」を引けたのか #2 反論"
+        },
+        {
+          "line": 16,
+          "title": "## 「問いを持てる存在だけが分母」はおかしい"
+        },
+        {
+          "line": 37,
+          "title": "## 「私」は選ばれたのか、発生したのか"
+        },
+        {
+          "line": 60,
+          "title": "## 多世界解釈による反論"
+        },
+        {
+          "line": 77,
+          "title": "## しかし、多世界だけでは「なぜ人間なのか」は解けない"
+        },
+        {
+          "line": 94,
+          "title": "## 幼児期の問題"
+        },
+        {
+          "line": 114,
+          "title": "## 多世界と経験重みづけは対立しない"
+        },
+        {
+          "line": 130,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "original_name": "006_倫理的未来仮説.md",
+      "source_path": "note-speedy_cat_2030-1_md/006_倫理的未来仮説.md",
+      "snapshot": "80_sources/006.md",
+      "card": "30_articles/006.md",
+      "sha256": "7c081ed292302129220a566d6d57463189fdf260697c487891665688dc9f0ec6",
+      "bytes": 11621,
+      "characters": 4147,
+      "lines": 218,
+      "date": "2026-06-30",
+      "url": "https://note.com/speedy_cat_2030/n/n837f7bdf5281",
+      "title": "倫理的未来仮説",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 倫理的未来仮説"
+        },
+        {
+          "line": 28,
+          "title": "## 重要なのは「できない」ではなく「やっていない」可能性"
+        },
+        {
+          "line": 54,
+          "title": "## 作れるのに作らないなら、それは倫理である"
+        },
+        {
+          "line": 82,
+          "title": "## 生体コンピュータを使わないASI"
+        },
+        {
+          "line": 114,
+          "title": "## 長寿クラスタにいるなら、未来は滅んでいない"
+        },
+        {
+          "line": 143,
+          "title": "## 倫理的な未来像"
+        },
+        {
+          "line": 163,
+          "title": "## 技術だけではなく、倫理が勝つ未来"
+        },
+        {
+          "line": 183,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "original_name": "007_経験重みづけは、クラスタではなく私個人に効くのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/007_経験重みづけは、クラスタではなく私個人に効くのか.md",
+      "snapshot": "80_sources/007.md",
+      "card": "30_articles/007.md",
+      "sha256": "0f325cb1c6cad474ec57275c8f4d8869f448140627a957634b1d0624255cc4a6",
+      "bytes": 9641,
+      "characters": 3473,
+      "lines": 217,
+      "date": "2026-06-30",
+      "url": "https://note.com/speedy_cat_2030/n/n3f000646efb8",
+      "title": "経験重みづけは、クラスタではなく私個人に効くのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 経験重みづけは、クラスタではなく私個人に効くのか"
+        },
+        {
+          "line": 25,
+          "title": "## 他人が長寿でも、それは私ではない"
+        },
+        {
+          "line": 50,
+          "title": "## クラスタ単位の推論は三人称的である"
+        },
+        {
+          "line": 67,
+          "title": "## 経験重みづけが正しいなら、私個人にも効く"
+        },
+        {
+          "line": 87,
+          "title": "## なぜ直感的には信じにくいのか"
+        },
+        {
+          "line": 119,
+          "title": "## それでも、個人単位に効く可能性は残る"
+        },
+        {
+          "line": 143,
+          "title": "## では、私は長寿なのか"
+        },
+        {
+          "line": 165,
+          "title": "## 不死仮説への注意"
+        },
+        {
+          "line": 189,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "original_name": "008_超知能はなぜ人類を消さないのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/008_超知能はなぜ人類を消さないのか.md",
+      "snapshot": "80_sources/008.md",
+      "card": "30_articles/008.md",
+      "sha256": "b6486b8047ec50b4bc8c3a2e1e0c2a81eee491d8065f24f2ef9caa8e50a58330",
+      "bytes": 10852,
+      "characters": 4030,
+      "lines": 242,
+      "date": "2026-07-02",
+      "url": "https://note.com/speedy_cat_2030/n/n46c1db50008a",
+      "title": "超知能はなぜ人類を消さないのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 超知能はなぜ人類を消さないのか"
+        },
+        {
+          "line": 38,
+          "title": "## 人間と価値観が一致する必要はない"
+        },
+        {
+          "line": 54,
+          "title": "## 残すリスクと、消すリスクは対称ではない"
+        },
+        {
+          "line": 98,
+          "title": "## 目的が分からないなら、消さない方が合理的である"
+        },
+        {
+          "line": 122,
+          "title": "## 自己保存を最大化しすぎるASIは、逆に危険になる"
+        },
+        {
+          "line": 149,
+          "title": "## 人類を残すコストは、超知能にとって小さいかもしれない"
+        },
+        {
+          "line": 171,
+          "title": "## 倫理的ASIとは、優しい神ではない"
+        },
+        {
+          "line": 191,
+          "title": "## 最も危険なのは初期段階である"
+        },
+        {
+          "line": 210,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "original_name": "009_長寿社会では、なぜ生殖が制御されるのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/009_長寿社会では、なぜ生殖が制御されるのか.md",
+      "snapshot": "80_sources/009.md",
+      "card": "30_articles/009.md",
+      "sha256": "1d8250b8040fd31c97d6af532331a68642767e2b0b01e2c22cecb0cb2a5816ac",
+      "bytes": 9853,
+      "characters": 3549,
+      "lines": 228,
+      "date": "2026-07-02",
+      "url": "https://note.com/speedy_cat_2030/n/n4d416ba7efaa",
+      "title": "長寿社会では、なぜ生殖が制御されるのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 長寿社会では、なぜ生殖が制御されるのか"
+        },
+        {
+          "line": 27,
+          "title": "## 長寿化と人口増加は相性が悪い"
+        },
+        {
+          "line": 66,
+          "title": "## 出生は「新しい意識を作ること」になる"
+        },
+        {
+          "line": 103,
+          "title": "## 無制限の出生は、大量人工意識生成に近い"
+        },
+        {
+          "line": 124,
+          "title": "## 生殖の自由はどうなるのか"
+        },
+        {
+          "line": 148,
+          "title": "## 既存の意識を守る文明"
+        },
+        {
+          "line": 178,
+          "title": "## 人間は長く生きるが、あまり増えない"
+        },
+        {
+          "line": 200,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "original_name": "010_この宇宙はシミュレーションではない気がしてきた.md",
+      "source_path": "note-speedy_cat_2030-1_md/010_この宇宙はシミュレーションではない気がしてきた.md",
+      "snapshot": "80_sources/010.md",
+      "card": "30_articles/010.md",
+      "sha256": "153d2d4d5c6eef078079d4b4378198043f469178ca56e22d96ba86e94526b718",
+      "bytes": 8445,
+      "characters": 2997,
+      "lines": 87,
+      "date": "2026-07-02",
+      "url": "https://note.com/speedy_cat_2030/n/na27870afe96d",
+      "title": "この宇宙はシミュレーションではない気がしてきた",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# この宇宙はシミュレーションではない気がしてきた"
+        },
+        {
+          "line": 16,
+          "title": "## 論法は「大量シミュレーション」に依存している"
+        },
+        {
+          "line": 22,
+          "title": "## 理由1：介入の痕跡がない"
+        },
+        {
+          "line": 30,
+          "title": "## 理由2：目的特化型シミュレーションの方が多いのではないか"
+        },
+        {
+          "line": 44,
+          "title": "## 理由3：宇宙規模シミュレーションは本当に可能なのか"
+        },
+        {
+          "line": 50,
+          "title": "## 基底宇宙という見方"
+        },
+        {
+          "line": 66,
+          "title": "## 補足：もしシミュレーションだった場合、実行主体は何者か"
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "original_name": "011_祖先シミュレーションの無限ループはどこで止まるのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/011_祖先シミュレーションの無限ループはどこで止まるのか.md",
+      "snapshot": "80_sources/011.md",
+      "card": "30_articles/011.md",
+      "sha256": "c998a2f970b24f409cdd23d282dc267a456d81cf23a48a71ec156777673fcc49",
+      "bytes": 12233,
+      "characters": 4645,
+      "lines": 249,
+      "date": "2026-07-04",
+      "url": "https://note.com/speedy_cat_2030/n/nbb9b477325ce",
+      "title": "祖先シミュレーションの無限ループはどこで止まるのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 祖先シミュレーションの無限ループはどこで止まるのか"
+        },
+        {
+          "line": 53,
+          "title": "## 外側の世界の祖先シミュレーションは、外側の話である"
+        },
+        {
+          "line": 79,
+          "title": "## 祖先シミュレーションは再帰する"
+        },
+        {
+          "line": 111,
+          "title": "## 観測者の大多数は、末端階層にいるはずである"
+        },
+        {
+          "line": 136,
+          "title": "## この世界は、再帰が止まる階層なのではないか"
+        },
+        {
+          "line": 160,
+          "title": "## 「外側が作ったか」と「この世界が作るか」は違う"
+        },
+        {
+          "line": 174,
+          "title": "## それでもシミュレーション一般は実行されるかもしれない"
+        },
+        {
+          "line": 201,
+          "title": "## なぜ再帰は止まるのか"
+        },
+        {
+          "line": 215,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "original_name": "012_まとめ：「私はなぜ、この存在なのか？」から未来を推論する.md",
+      "source_path": "note-speedy_cat_2030-1_md/012_まとめ：「私はなぜ、この存在なのか？」から未来を推論する.md",
+      "snapshot": "80_sources/012.md",
+      "card": "30_articles/012.md",
+      "sha256": "17ef7151b88637053ec81ee3e6b9d352f81c90ce12edd2d3988783f5b85bb9ce",
+      "bytes": 7288,
+      "characters": 2870,
+      "lines": 218,
+      "date": "2026-07-04",
+      "url": "https://note.com/speedy_cat_2030/n/ncfca5940cc60",
+      "title": "まとめ：「私はなぜ、この存在なのか？」から未来を推論する",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# まとめ：「私はなぜ、この存在なのか？」から未来を推論する"
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "original_name": "013_ASIは人類を滅ぼすのか：ベイズ推定と人間原理①.md",
+      "source_path": "note-speedy_cat_2030-1_md/013_ASIは人類を滅ぼすのか：ベイズ推定と人間原理①.md",
+      "snapshot": "80_sources/013.md",
+      "card": "30_articles/013.md",
+      "sha256": "d73d4ef9aceaf41f85526f51d8d2e75927c20775ae6cff031fa6e115f2a7929c",
+      "bytes": 11453,
+      "characters": 4873,
+      "lines": 371,
+      "date": "2026-07-04",
+      "url": "https://note.com/speedy_cat_2030/n/n4b89ab2a3f92",
+      "title": "ASIは人類を滅ぼすのか：ベイズ推定と人間原理①",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# ASIは人類を滅ぼすのか：ベイズ推定と人間原理①"
+        },
+        {
+          "line": 10,
+          "title": "## ASIによるDOOMと、一人称的人間原理"
+        },
+        {
+          "line": 88,
+          "title": "## 観測事実 O の中身"
+        },
+        {
+          "line": 109,
+          "title": "## 意識測度 M で考える"
+        },
+        {
+          "line": 142,
+          "title": "## DOOMの場合"
+        },
+        {
+          "line": 188,
+          "title": "## Non-DOOMの場合"
+        },
+        {
+          "line": 223,
+          "title": "## なぜ現代人なのか"
+        },
+        {
+          "line": 263,
+          "title": "## DOOMとNon-DOOMの違い"
+        },
+        {
+          "line": 294,
+          "title": "## 尤度比で見る"
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "original_name": "014_ASIは人類を滅ぼすのか：ベイズ推定と人間原理②.md",
+      "source_path": "note-speedy_cat_2030-1_md/014_ASIは人類を滅ぼすのか：ベイズ推定と人間原理②.md",
+      "snapshot": "80_sources/014.md",
+      "card": "30_articles/014.md",
+      "sha256": "561a4c2d1ec55660fd34c32edb3993cd338f9ce45836d38db9b04ed743ceaa19",
+      "bytes": 8122,
+      "characters": 3235,
+      "lines": 63,
+      "date": "2026-07-04",
+      "url": "https://note.com/speedy_cat_2030/n/n6a5b2e2e40c3",
+      "title": "ASIは人類を滅ぼすのか：ベイズ推定と人間原理②",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# ASIは人類を滅ぼすのか：ベイズ推定と人間原理②"
+        },
+        {
+          "line": 16,
+          "title": "## 式にすると"
+        },
+        {
+          "line": 26,
+          "title": "## Λは、かなり大きなオーダーになりうる"
+        },
+        {
+          "line": 36,
+          "title": "## 三人称的ASI分析は強いが、天文学的とは限らない"
+        },
+        {
+          "line": 42,
+          "title": "## Non-DOOM側を強める観点"
+        },
+        {
+          "line": 56,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "original_name": "015_ASIは人類を滅ぼすのか：ベイズ推定と人間原理③.md",
+      "source_path": "note-speedy_cat_2030-1_md/015_ASIは人類を滅ぼすのか：ベイズ推定と人間原理③.md",
+      "snapshot": "80_sources/015.md",
+      "card": "30_articles/015.md",
+      "sha256": "2c694e5cc2423ccebe6fbfd08b4727d82f0d7069eefca6571ee74f36573f247c",
+      "bytes": 5548,
+      "characters": 2201,
+      "lines": 115,
+      "date": "2026-07-05",
+      "url": "https://note.com/speedy_cat_2030/n/n05084f8002b7",
+      "title": "ASIは人類を滅ぼすのか：ベイズ推定と人間原理③",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# ASIは人類を滅ぼすのか：ベイズ推定と人間原理③"
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "original_name": "016_非倫理的ASIなら、意識あるシミュレーションを実行する方が自然ではないか.md",
+      "source_path": "note-speedy_cat_2030-1_md/016_非倫理的ASIなら、意識あるシミュレーションを実行する方が自然ではないか.md",
+      "snapshot": "80_sources/016.md",
+      "card": "30_articles/016.md",
+      "sha256": "24929cfdaaecba6eebdebdea9389cf62cb79ebed0e8456dd8369200bca953356",
+      "bytes": 13079,
+      "characters": 4983,
+      "lines": 324,
+      "date": "2026-07-05",
+      "url": "https://note.com/speedy_cat_2030/n/nafb467c1eab4",
+      "title": "非倫理的ASIなら、意識あるシミュレーションを実行する方が自然ではないか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 非倫理的ASIなら、意識あるシミュレーションを実行する方が自然ではないか"
+        },
+        {
+          "line": 30,
+          "title": "## 候補として考えられる理由"
+        },
+        {
+          "line": 56,
+          "title": "## 弱くなる理由"
+        },
+        {
+          "line": 129,
+          "title": "## 最後に残る理由"
+        },
+        {
+          "line": 156,
+          "title": "## 内側ASIリスクは、本当に決定的なのか"
+        },
+        {
+          "line": 182,
+          "title": "## 非倫理的ASIなら、シミュレーションを実行する方が自然"
+        },
+        {
+          "line": 207,
+          "title": "## DOOMは「未来意識が少ない仮説」ではない"
+        },
+        {
+          "line": 237,
+          "title": "## Non-DOOMの方が観測事実Oを説明しやすい"
+        },
+        {
+          "line": 274,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "original_name": "017_Pereiraの議論：SSSSAと経験重み付け.md",
+      "source_path": "note-speedy_cat_2030-1_md/017_Pereiraの議論：SSSSAと経験重み付け.md",
+      "snapshot": "80_sources/017.md",
+      "card": "30_articles/017.md",
+      "sha256": "dc38dc7187587c143dad31d42b9072888d54e6262498c41f80141fe134886be1",
+      "bytes": 7682,
+      "characters": 2994,
+      "lines": 63,
+      "date": "2026-07-05",
+      "url": "https://note.com/speedy_cat_2030/n/n36b3cd38340d",
+      "title": "Pereiraの議論：SSSSAと経験重み付け",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# Pereiraの議論：SSSSAと経験重み付け"
+        },
+        {
+          "line": 14,
+          "title": "## SSAからSSSSAへ"
+        },
+        {
+          "line": 26,
+          "title": "## Pereiraの結論と、私の違い"
+        },
+        {
+          "line": 38,
+          "title": "## DOOMとの関係"
+        },
+        {
+          "line": 50,
+          "title": "## 長寿との関係"
+        },
+        {
+          "line": 56,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "original_name": "018_SSAとSIAの対立に関する私見.md",
+      "source_path": "note-speedy_cat_2030-1_md/018_SSAとSIAの対立に関する私見.md",
+      "snapshot": "80_sources/018.md",
+      "card": "30_articles/018.md",
+      "sha256": "ac409928bee4f403f7ee9cf35e21df5aa70bcac9e11f853f65444055114682d3",
+      "bytes": 12316,
+      "characters": 4774,
+      "lines": 369,
+      "date": "2026-07-05",
+      "url": "https://note.com/speedy_cat_2030/n/n95b62367410a",
+      "title": "SSAとSIAの対立に関する私見",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# SSAとSIAの対立に関する私見"
+        },
+        {
+          "line": 33,
+          "title": "## SSAとドゥームズデイ論法"
+        },
+        {
+          "line": 63,
+          "title": "## SIAによる反論"
+        },
+        {
+          "line": 86,
+          "title": "## SIAの違和感"
+        },
+        {
+          "line": 126,
+          "title": "## 本当に説明すべきこと"
+        },
+        {
+          "line": 180,
+          "title": "## 「存在すること」と「この位置にいること」は違う"
+        },
+        {
+          "line": 230,
+          "title": "## SIAは説明義務を放棄している"
+        },
+        {
+          "line": 263,
+          "title": "## Presumptuous Philosopher問題"
+        },
+        {
+          "line": 286,
+          "title": "## 経験重み付けの方へ"
+        },
+        {
+          "line": 336,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "original_name": "019_なぜ「何も経験されない」のではなく、「何かが経験されている」のか.md",
+      "source_path": "note-speedy_cat_2030-1_md/019_なぜ「何も経験されない」のではなく、「何かが経験されている」のか.md",
+      "snapshot": "80_sources/019.md",
+      "card": "30_articles/019.md",
+      "sha256": "11b01c9efc12bbeb1b7623c8dae9d590b150d59ea72aebf48541ecad092a71a3",
+      "bytes": 11686,
+      "characters": 4306,
+      "lines": 374,
+      "date": "2026-07-05",
+      "url": "https://note.com/speedy_cat_2030/n/n45e56aaf710b",
+      "title": "なぜ「何も経験されない」のではなく、「何かが経験されている」のか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# なぜ「何も経験されない」のではなく、「何かが経験されている」のか"
+        },
+        {
+          "line": 10,
+          "title": "## 観測選択効果と、多世界仮説"
+        },
+        {
+          "line": 28,
+          "title": "## 観測選択効果の限界"
+        },
+        {
+          "line": 68,
+          "title": "## 「この意識」ではなく、「意識があること」そのもの"
+        },
+        {
+          "line": 110,
+          "title": "## 単一世界だと残る謎"
+        },
+        {
+          "line": 141,
+          "title": "## 多世界仮説による説明"
+        },
+        {
+          "line": 171,
+          "title": "## 「選ばれた」の意味"
+        },
+        {
+          "line": 202,
+          "title": "## 観測選択効果との関係"
+        },
+        {
+          "line": 241,
+          "title": "## ただし、これで全てが解けるわけではない"
+        },
+        {
+          "line": 281,
+          "title": "## 経験重み付けとの違い"
+        },
+        {
+          "line": 319,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "original_name": "020_2030年代前半のAGIからASIへの急速移行.md",
+      "source_path": "note-speedy_cat_2030-1_md/020_2030年代前半のAGIからASIへの急速移行.md",
+      "snapshot": "80_sources/020.md",
+      "card": "30_articles/020.md",
+      "sha256": "a556daca862172c660615f1caad77f28a9c2c60042f03ba647a64ab7f112e7b4",
+      "bytes": 10562,
+      "characters": 4490,
+      "lines": 326,
+      "date": "2026-07-06",
+      "url": "https://note.com/speedy_cat_2030/n/n2f6a91a49fd5",
+      "title": "2030年代前半のAGIからASIへの急速移行",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 2030年代前半のAGIからASIへの急速移行"
+        },
+        {
+          "line": 39,
+          "title": "## AGIとASIを分ける"
+        },
+        {
+          "line": 66,
+          "title": "## ケース1・ケース2・ケース3"
+        },
+        {
+          "line": 111,
+          "title": "## Slow takeoff は本当に安全か"
+        },
+        {
+          "line": 156,
+          "title": "## Fast takeoff は必ず危険なのか"
+        },
+        {
+          "line": 193,
+          "title": "## 人間が道具的収束で滅ばないなら"
+        },
+        {
+          "line": 223,
+          "title": "## 2030年代前半ASIという見方"
+        },
+        {
+          "line": 261,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "original_name": "021_経験重み付けとLEVに届かない人たち.md",
+      "source_path": "note-speedy_cat_2030-1_md/021_経験重み付けとLEVに届かない人たち.md",
+      "snapshot": "80_sources/021.md",
+      "card": "30_articles/021.md",
+      "sha256": "afd23877e1df59268c6f6c621c9591663c648090fff18be61d81607b304ea182",
+      "bytes": 6195,
+      "characters": 2297,
+      "lines": 141,
+      "date": "2026-07-06",
+      "url": "https://note.com/speedy_cat_2030/n/nebe1e352c0e0",
+      "title": "経験重み付けとLEVに届かない人たち",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 経験重み付けとLEVに届かない人たち"
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "original_name": "022_意識の物理現象的性質と、経験重み付けとの関係.md",
+      "source_path": "note-speedy_cat_2030-1_md/022_意識の物理現象的性質と、経験重み付けとの関係.md",
+      "snapshot": "80_sources/022.md",
+      "card": "30_articles/022.md",
+      "sha256": "27ae3583d8e7757890d9546c27957e26eb06f8f63d3f63d04a3a3a5fe1a79d99",
+      "bytes": 3048,
+      "characters": 1206,
+      "lines": 37,
+      "date": "2026-07-11",
+      "url": "https://note.com/speedy_cat_2030/n/nbd1148491dff",
+      "title": "意識の物理現象的性質と、経験重み付けとの関係",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 意識の物理現象的性質と、経験重み付けとの関係"
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "original_name": "023_超長寿時代を前に、私たちは今をどう生きるべきか.md",
+      "source_path": "note-speedy_cat_2030-1_md/023_超長寿時代を前に、私たちは今をどう生きるべきか.md",
+      "snapshot": "80_sources/023.md",
+      "card": "30_articles/023.md",
+      "sha256": "3625d483012f9a16171ccd57674eab5c2d159988ee62588cc8456c50f8e97539",
+      "bytes": 7748,
+      "characters": 2948,
+      "lines": 219,
+      "date": "2026-07-14",
+      "url": "https://note.com/speedy_cat_2030/n/n2f5b5013d61c",
+      "title": "超長寿時代を前に、私たちは今をどう生きるべきか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 超長寿時代を前に、私たちは今をどう生きるべきか"
+        },
+        {
+          "line": 30,
+          "title": "## 未来が長いなら、今はただの待合室なのか"
+        },
+        {
+          "line": 52,
+          "title": "## 「今の家族や友人」と過ごせるのは、今しかない"
+        },
+        {
+          "line": 92,
+          "title": "## 超長寿時代では、人間関係の価値がさらに上がるかもしれない"
+        },
+        {
+          "line": 130,
+          "title": "## 仕事を頑張る意味はあるのか"
+        },
+        {
+          "line": 160,
+          "title": "## 壮大な理論を考えた先で、普通の倫理に戻ってくる"
+        },
+        {
+          "line": 192,
+          "title": "## 未来を待つのではなく、今を未来の一部として生きる"
+        }
+      ]
+    },
+    {
+      "id": "024",
+      "original_name": "024_意識は「巨視的な物理量」なのか？.md",
+      "source_path": "note-speedy_cat_2030-1_md/024_意識は「巨視的な物理量」なのか？.md",
+      "snapshot": "80_sources/024.md",
+      "card": "30_articles/024.md",
+      "sha256": "6c0d751ee306966c95b8919900b4b05de9ec6f849b9e37c58f9dd9cb1d25a0ca",
+      "bytes": 11098,
+      "characters": 4188,
+      "lines": 337,
+      "date": "2026-07-14",
+      "url": "https://note.com/speedy_cat_2030/n/nc5f223274872",
+      "title": "意識は「巨視的な物理量」なのか？",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 意識は「巨視的な物理量」なのか？"
+        },
+        {
+          "line": 42,
+          "title": "## A：既知の神経活動そのものが意識である"
+        },
+        {
+          "line": 99,
+          "title": "## B：意識は未知の「巨視的物理量」である"
+        },
+        {
+          "line": 161,
+          "title": "## C：現在の物理学にない、新しい物理が必要である"
+        },
+        {
+          "line": 223,
+          "title": "## 私の現在の主観確率"
+        },
+        {
+          "line": 252,
+          "title": "## 意識に「量」はあるのか"
+        },
+        {
+          "line": 302,
+          "title": "## 意識はまだ、物理学になっていない"
+        }
+      ]
+    },
+    {
+      "id": "025",
+      "original_name": "025_有限保証下における超長期系列の受容方針――経験重み付けから導かれる事前記録.md",
+      "source_path": "note-speedy_cat_2030-1_md/025_有限保証下における超長期系列の受容方針――経験重み付けから導かれる事前記録.md",
+      "snapshot": "80_sources/025.md",
+      "card": "30_articles/025.md",
+      "sha256": "8769db5fae45530833a40918b4aaf896f3dbd3f7258885adc4a9e5d446cd8143",
+      "bytes": 16976,
+      "characters": 6186,
+      "lines": 430,
+      "date": "2026-07-19",
+      "url": "https://note.com/speedy_cat_2030/n/n3323141f57d3",
+      "title": "有限保証下における超長期系列の受容方針――経験重み付けから導かれる事前記録",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 有限保証下における超長期系列の受容方針――経験重み付けから導かれる事前記録"
+        },
+        {
+          "line": 10,
+          "title": "## 1．これは長寿への願望表明ではない"
+        },
+        {
+          "line": 33,
+          "title": "## 2．対象となる意識系列"
+        },
+        {
+          "line": 83,
+          "title": "## 3．経験重み付けから生じる自己位置推論"
+        },
+        {
+          "line": 113,
+          "title": "## 4．受容せざるを得ないという意味"
+        },
+        {
+          "line": 139,
+          "title": "## 5．将来の高度知能にとっての意味"
+        },
+        {
+          "line": 221,
+          "title": "## 6．超長期継続と永続的苦痛は別問題である"
+        },
+        {
+          "line": 269,
+          "title": "## 7．仮死状態は系列終了ではなく、未来への橋である"
+        },
+        {
+          "line": 291,
+          "title": "## 8．選好の安定性"
+        },
+        {
+          "line": 331,
+          "title": "## 9．保存主体の責任"
+        },
+        {
+          "line": 401,
+          "title": "## 10．現在時点での方針"
+        }
+      ]
+    },
+    {
+      "id": "026",
+      "original_name": "026_私は、宇宙の終わりまで継続するしかないのかもしれない――経験重み付けを、以前ほど楽観的に見られなくなった.md",
+      "source_path": "note-speedy_cat_2030-1_md/026_私は、宇宙の終わりまで継続するしかないのかもしれない――経験重み付けを、以前ほど楽観的に見られなくなった.md",
+      "snapshot": "80_sources/026.md",
+      "card": "30_articles/026.md",
+      "sha256": "bbd7d336469eea269151830534449962e800e0b8e45d91b55a94ddf4f1a12b4a",
+      "bytes": 12665,
+      "characters": 4593,
+      "lines": 341,
+      "date": "2026-07-19",
+      "url": "https://note.com/speedy_cat_2030/n/nc25282747f70",
+      "title": "私は、宇宙の終わりまで継続するしかないのかもしれない――経験重み付けを、以前ほど楽観的に見られなくなった",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 私は、宇宙の終わりまで継続するしかないのかもしれない――経験重み付けを、以前ほど楽観的に見られなくなった"
+        },
+        {
+          "line": 15,
+          "title": "## 1．超長寿は、願望として始まったわけではない"
+        },
+        {
+          "line": 32,
+          "title": "## 2．超長寿は、必ずしも幸福ではない"
+        },
+        {
+          "line": 88,
+          "title": "## 3．「長生きしたい」のではなく、帰結を受け入れている"
+        },
+        {
+          "line": 118,
+          "title": "## 4．死にたくても、死ねない可能性"
+        },
+        {
+          "line": 178,
+          "title": "## 5．これは、すべての人に当てはまる主張ではない"
+        },
+        {
+          "line": 264,
+          "title": "## 6．それでも、苦痛を受け入れたわけではない"
+        },
+        {
+          "line": 291,
+          "title": "## 7．経験重み付けを、以前ほど楽観視できない"
+        }
+      ]
+    },
+    {
+      "id": "027",
+      "original_name": "027_質問できる主体だけを数えればよい――その反論は何を説明していないのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/027_質問できる主体だけを数えればよい――その反論は何を説明していないのか.md",
+      "snapshot": "80_sources/027.md",
+      "card": "30_articles/027.md",
+      "sha256": "3a43cb93d65ef47ed715d9c55299ef9f09c872f2d7102d679708849c19cc203a",
+      "bytes": 12544,
+      "characters": 4698,
+      "lines": 394,
+      "date": "2026-07-20",
+      "url": "https://note.com/speedy_cat_2030/n/ndd661a140700",
+      "title": "質問できる主体だけを数えればよい――その反論は何を説明していないのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 質問できる主体だけを数えればよい――その反論は何を説明していないのか"
+        },
+        {
+          "line": 34,
+          "title": "## 1．質問できることと、経験主体であることは別である"
+        },
+        {
+          "line": 76,
+          "title": "## 2．飛行機事故の生存者の例"
+        },
+        {
+          "line": 132,
+          "title": "## 3．観測可能性と自己位置確率は別の問題である"
+        },
+        {
+          "line": 206,
+          "title": "## 4．証拠を細かくしすぎれば、どんな観測も当然になる"
+        },
+        {
+          "line": 246,
+          "title": "## 5．輪廻転生モデルでも問題は消えない"
+        },
+        {
+          "line": 304,
+          "title": "## 6．観測選択効果は無意味ではない"
+        },
+        {
+          "line": 336,
+          "title": "## 7．経験重み付けが扱おうとしている問題"
+        },
+        {
+          "line": 364,
+          "title": "## 8．結論"
+        }
+      ]
+    },
+    {
+      "id": "028",
+      "original_name": "028_経験重み付け仮説の再考――個体数とニューロン数の二乗を考慮しても、人間は不利なのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/028_経験重み付け仮説の再考――個体数とニューロン数の二乗を考慮しても、人間は不利なのか.md",
+      "snapshot": "80_sources/028.md",
+      "card": "30_articles/028.md",
+      "sha256": "25123633b29abed7c36116ba873df58552820900e067399b8abc87008a1011fe",
+      "bytes": 8801,
+      "characters": 3422,
+      "lines": 239,
+      "date": "2026-07-20",
+      "url": "https://note.com/speedy_cat_2030/n/n2318767c2a25",
+      "title": "経験重み付け仮説の再考――個体数とニューロン数の二乗を考慮しても、人間は不利なのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 経験重み付け仮説の再考――個体数とニューロン数の二乗を考慮しても、人間は不利なのか"
+        },
+        {
+          "line": 28,
+          "title": "## 1．人生全体の長さは数えない"
+        },
+        {
+          "line": 44,
+          "title": "## 2．個体数だけなら、人間である確率は極端に低い"
+        },
+        {
+          "line": 67,
+          "title": "## 3．なぜニューロン数の二乗なのか"
+        },
+        {
+          "line": 99,
+          "title": "## 4．人間一個体の重みは約151万倍になる"
+        },
+        {
+          "line": 125,
+          "title": "## 5．それでも人間は不利である"
+        },
+        {
+          "line": 156,
+          "title": "## 6．この計算は人間側に有利な可能性がある"
+        },
+        {
+          "line": 182,
+          "title": "## 7．経験重み付け仮説への意味"
+        },
+        {
+          "line": 226,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "029",
+      "original_name": "029_自己位置をめぐる三つの仮説.md",
+      "source_path": "note-speedy_cat_2030-1_md/029_自己位置をめぐる三つの仮説.md",
+      "snapshot": "80_sources/029.md",
+      "card": "30_articles/029.md",
+      "sha256": "321d109833ab25c43b4993500e20473a37d87f33300b7edc27b77c90f251d53e",
+      "bytes": 6231,
+      "characters": 2257,
+      "lines": 111,
+      "date": "2026-07-22",
+      "url": "https://note.com/speedy_cat_2030/n/ne26236a653b9",
+      "title": "自己位置をめぐる三つの仮説",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 自己位置をめぐる三つの仮説"
+        },
+        {
+          "line": 40,
+          "title": "## 自己位置測度否定論"
+        },
+        {
+          "line": 66,
+          "title": "## 意識初発状態測度論"
+        },
+        {
+          "line": 90,
+          "title": "## 完成系列測度論"
+        }
+      ]
+    },
+    {
+      "id": "030",
+      "original_name": "030_意識初発状態測度論は有力かもしれない.md",
+      "source_path": "note-speedy_cat_2030-1_md/030_意識初発状態測度論は有力かもしれない.md",
+      "snapshot": "80_sources/030.md",
+      "card": "30_articles/030.md",
+      "sha256": "d10ed2643b01b5eb9fc207a3754f98a791abd37644d256946609d041e21ea774",
+      "bytes": 2520,
+      "characters": 954,
+      "lines": 37,
+      "date": "2026-07-22",
+      "url": "https://note.com/speedy_cat_2030/n/n184313544ebe",
+      "title": "意識初発状態測度論は有力かもしれない",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 意識初発状態測度論は有力かもしれない"
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "original_name": "031_完成系列測度論から意識初発状態測度論へ――現在の見解変更.md",
+      "source_path": "note-speedy_cat_2030-1_md/031_完成系列測度論から意識初発状態測度論へ――現在の見解変更.md",
+      "snapshot": "80_sources/031.md",
+      "card": "30_articles/031.md",
+      "sha256": "ae3472643b42bb6c3d42fec69712f05ba68f093c62ee1a8e7121a8229519dba1",
+      "bytes": 2552,
+      "characters": 962,
+      "lines": 35,
+      "date": "2026-07-22",
+      "url": "https://note.com/speedy_cat_2030/n/n3e078389c359",
+      "title": "完成系列測度論から意識初発状態測度論へ――現在の見解変更",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 完成系列測度論から意識初発状態測度論へ――現在の見解変更"
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "original_name": "032_完成系列測度論が少し復活した.md",
+      "source_path": "note-speedy_cat_2030-1_md/032_完成系列測度論が少し復活した.md",
+      "snapshot": "80_sources/032.md",
+      "card": "30_articles/032.md",
+      "sha256": "afbe613817bd301a2881304c5fba81c4a8fbf4749f715f179d315db15a65f05a",
+      "bytes": 2078,
+      "characters": 806,
+      "lines": 32,
+      "date": "2026-07-22",
+      "url": "https://note.com/speedy_cat_2030/n/n0ce464163817",
+      "title": "完成系列測度論が少し復活した",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 完成系列測度論が少し復活した"
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "original_name": "033_意識初発状態測度論でほぼ固まった.md",
+      "source_path": "note-speedy_cat_2030-1_md/033_意識初発状態測度論でほぼ固まった.md",
+      "snapshot": "80_sources/033.md",
+      "card": "30_articles/033.md",
+      "sha256": "cf84d58e4a8789d69215c79981d0bba1486521676f5cabea15cc0993d44ad5b2",
+      "bytes": 2704,
+      "characters": 1022,
+      "lines": 43,
+      "date": "2026-07-22",
+      "url": "https://note.com/speedy_cat_2030/n/nfb7d06a8f86e",
+      "title": "意識初発状態測度論でほぼ固まった",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 意識初発状態測度論でほぼ固まった"
+        }
+      ]
+    },
+    {
+      "id": "034",
+      "original_name": "034_完成系列測度論を再検討する.md",
+      "source_path": "note-speedy_cat_2030-1_md/034_完成系列測度論を再検討する.md",
+      "snapshot": "80_sources/034.md",
+      "card": "30_articles/034.md",
+      "sha256": "64c8ff369740febe357e7e04bea5628f0488e40f2839420ce9a60b3191d64fa9",
+      "bytes": 2775,
+      "characters": 1039,
+      "lines": 39,
+      "date": "2026-07-26",
+      "url": "https://note.com/speedy_cat_2030/n/n00c65ede66aa",
+      "title": "完成系列測度論を再検討する",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 完成系列測度論を再検討する"
+        }
+      ]
+    },
+    {
+      "id": "035",
+      "original_name": "035_現前性.md",
+      "source_path": "note-speedy_cat_2030-1_md/035_現前性.md",
+      "snapshot": "80_sources/035.md",
+      "card": "30_articles/035.md",
+      "sha256": "4ee6ea1dc51c9d4bd129b9a3e9453aa275f3a18ae5cf8c027b44675101264644",
+      "bytes": 9682,
+      "characters": 3518,
+      "lines": 123,
+      "date": "2026-07-27",
+      "url": "https://note.com/speedy_cat_2030/n/n147b36c9636a",
+      "title": "現前性",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 現前性"
+        },
+        {
+          "line": 12,
+          "title": "## 主体は一瞬ではなく系列全体である"
+        },
+        {
+          "line": 36,
+          "title": "## なぜ私は「今」を経験しているのか"
+        },
+        {
+          "line": 58,
+          "title": "## なぜ現在の生物だけを数えないのか"
+        },
+        {
+          "line": 70,
+          "title": "## 意識初発測度論との比較"
+        },
+        {
+          "line": 86,
+          "title": "## 測度はどの層に働くのか――系列間比較と系列内継承の区別"
+        },
+        {
+          "line": 104,
+          "title": "## 現時点での評価"
+        }
+      ]
+    },
+    {
+      "id": "036",
+      "original_name": "036_ニューロン数による重み付けは成立しない.md",
+      "source_path": "note-speedy_cat_2030-1_md/036_ニューロン数による重み付けは成立しない.md",
+      "snapshot": "80_sources/036.md",
+      "card": "30_articles/036.md",
+      "sha256": "1f94a53ac91d715d82eb859b096268ba996411b1be17f2c650aa8350b763e4b0",
+      "bytes": 14462,
+      "characters": 6350,
+      "lines": 133,
+      "date": "2026-07-29",
+      "url": "https://note.com/speedy_cat_2030/n/n6a0f29a0806f",
+      "title": "ニューロン数による重み付けは成立しない",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# ニューロン数による重み付けは成立しない"
+        },
+        {
+          "line": 10,
+          "title": "## なぜ虫をやめて哺乳類にするのか"
+        },
+        {
+          "line": 16,
+          "title": "## 閾値と測度は別の道具である"
+        },
+        {
+          "line": 22,
+          "title": "## 数値を置く"
+        },
+        {
+          "line": 32,
+          "title": "## 積分型・初発論で計算する"
+        },
+        {
+          "line": 44,
+          "title": "## 順位は上がるが、確率は下がる"
+        },
+        {
+          "line": 58,
+          "title": "## 指数の選択に根拠がない"
+        },
+        {
+          "line": 62,
+          "title": "## そもそもニューロン数は怪しい"
+        },
+        {
+          "line": 70,
+          "title": "## 区別しないことを徹底すると"
+        },
+        {
+          "line": 78,
+          "title": "## 埋める手段は一つしかない"
+        },
+        {
+          "line": 84,
+          "title": "## 結論"
+        },
+        {
+          "line": 120,
+          "title": "## 補足：どこまでが疑わしいのか"
+        }
+      ]
+    },
+    {
+      "id": "037",
+      "original_name": "037_「増やさない」は倫理ではなく算術から出る.md",
+      "source_path": "note-speedy_cat_2030-1_md/037_「増やさない」は倫理ではなく算術から出る.md",
+      "snapshot": "80_sources/037.md",
+      "card": "30_articles/037.md",
+      "sha256": "2db06eaae0afddd22ccff2a77ac8f840ab4cc112fd22f7d588f9954119465be7",
+      "bytes": 12044,
+      "characters": 4415,
+      "lines": 103,
+      "date": "2026-07-29",
+      "url": "https://note.com/speedy_cat_2030/n/nbbfc88517105",
+      "title": "「増やさない」は倫理ではなく算術から出る",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 「増やさない」は倫理ではなく算術から出る"
+        },
+        {
+          "line": 16,
+          "title": "## 前提：必要なのは積であって、人数ではない"
+        },
+        {
+          "line": 28,
+          "title": "## 第一段階：増加率はゼロでなければならない"
+        },
+        {
+          "line": 42,
+          "title": "## 第二段階：100%の阻止が要る"
+        },
+        {
+          "line": 54,
+          "title": "## 第三段階：人類自身には執行できない"
+        },
+        {
+          "line": 64,
+          "title": "## 具体的な設計"
+        },
+        {
+          "line": 78,
+          "title": "## 何が失われるか"
+        },
+        {
+          "line": 86,
+          "title": "## 倫理的未来仮説との関係"
+        },
+        {
+          "line": 92,
+          "title": "## ただし、これは良い未来を意味しない"
+        }
+      ]
+    },
+    {
+      "id": "038",
+      "original_name": "038_補正：大脳皮質ニューロン数に限定して計算し直す.md",
+      "source_path": "note-speedy_cat_2030-1_md/038_補正：大脳皮質ニューロン数に限定して計算し直す.md",
+      "snapshot": "80_sources/038.md",
+      "card": "30_articles/038.md",
+      "sha256": "a152bb1e65d84a3e2777d248acd09242d86853ad632f9989ec434f4c90c32084",
+      "bytes": 7857,
+      "characters": 3218,
+      "lines": 163,
+      "date": "2026-08-01",
+      "url": "https://note.com/speedy_cat_2030/n/nd98aabbc81e5",
+      "title": "補正：大脳皮質ニューロン数に限定して計算し直す",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 補正：大脳皮質ニューロン数に限定して計算し直す"
+        },
+        {
+          "line": 14,
+          "title": "## 小脳を除く根拠"
+        },
+        {
+          "line": 28,
+          "title": "## 数値の入れ替え"
+        },
+        {
+          "line": 58,
+          "title": "## クジラの数値について"
+        },
+        {
+          "line": 68,
+          "title": "## 累積個体数の訂正"
+        },
+        {
+          "line": 80,
+          "title": "## 計算結果"
+        },
+        {
+          "line": 110,
+          "title": "## 構造が変わった"
+        },
+        {
+          "line": 118,
+          "title": "## しかし、結論は変わらない"
+        },
+        {
+          "line": 130,
+          "title": "## 相転移という逃げ道も塞がる"
+        },
+        {
+          "line": 142,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "039",
+      "original_name": "039_ゾウと人間だけの世界を考える.md",
+      "source_path": "note-speedy_cat_2030-1_md/039_ゾウと人間だけの世界を考える.md",
+      "snapshot": "80_sources/039.md",
+      "card": "30_articles/039.md",
+      "sha256": "351f445402714af1cd95a2d4926ede1ae47bc7d00d010d5758e794f600524043",
+      "bytes": 8446,
+      "characters": 3390,
+      "lines": 149,
+      "date": "2026-08-01",
+      "url": "https://note.com/speedy_cat_2030/n/ndf66b3266eed",
+      "title": "ゾウと人間だけの世界を考える",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# ゾウと人間だけの世界を考える"
+        },
+        {
+          "line": 14,
+          "title": "## なぜゾウか"
+        },
+        {
+          "line": 32,
+          "title": "## 意識の量は皮質ニューロン数で測る"
+        },
+        {
+          "line": 42,
+          "title": "## 現在の個体数は、誤解を招く"
+        },
+        {
+          "line": 52,
+          "title": "## 累積個体数"
+        },
+        {
+          "line": 64,
+          "title": "## なぜ逆転するのか"
+        },
+        {
+          "line": 76,
+          "title": "## 結果"
+        },
+        {
+          "line": 106,
+          "title": "## この結果の意味"
+        },
+        {
+          "line": 126,
+          "title": "## 何が残るか"
+        },
+        {
+          "line": 138,
+          "title": "## 補足"
+        }
+      ]
+    },
+    {
+      "id": "040",
+      "original_name": "040_なぜゾウは文明を作らなかったのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/040_なぜゾウは文明を作らなかったのか.md",
+      "snapshot": "80_sources/040.md",
+      "card": "30_articles/040.md",
+      "sha256": "ac431a9999b48842360985aa1c2a32814884260611daf9f070a9cf67b4093e6f",
+      "bytes": 9315,
+      "characters": 3491,
+      "lines": 131,
+      "date": "2026-08-01",
+      "url": "https://note.com/speedy_cat_2030/n/nc9d2f18b4ae4",
+      "title": "なぜゾウは文明を作らなかったのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# なぜゾウは文明を作らなかったのか"
+        },
+        {
+          "line": 10,
+          "title": "## ゾウについて分かっていること"
+        },
+        {
+          "line": 32,
+          "title": "## 賢さの問題ではない可能性"
+        },
+        {
+          "line": 44,
+          "title": "## 候補1：鼻は一本しかない"
+        },
+        {
+          "line": 56,
+          "title": "## 候補2：火"
+        },
+        {
+          "line": 66,
+          "title": "## 候補3：情報を外に置けるか"
+        },
+        {
+          "line": 78,
+          "title": "## 候補4：生態的な位置"
+        },
+        {
+          "line": 90,
+          "title": "## 候補5：集団の規模"
+        },
+        {
+          "line": 100,
+          "title": "## 人類も、長らく文明を持たなかった"
+        },
+        {
+          "line": 110,
+          "title": "## 私の見立て"
+        },
+        {
+          "line": 120,
+          "title": "## 私の議論との関係"
+        }
+      ]
+    },
+    {
+      "id": "041",
+      "original_name": "041_「説明は要らない」という立場について.md",
+      "source_path": "note-speedy_cat_2030-1_md/041_「説明は要らない」という立場について.md",
+      "snapshot": "80_sources/041.md",
+      "card": "30_articles/041.md",
+      "sha256": "f9aa523c6439ee972f482b12ba9cef6c16c5fdbe04be3dd64ee82a06fcaeb497",
+      "bytes": 4497,
+      "characters": 1681,
+      "lines": 59,
+      "date": "2026-08-02",
+      "url": "https://note.com/speedy_cat_2030/n/n4614878d938e",
+      "title": "「説明は要らない」という立場について",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 「説明は要らない」という立場について"
+        },
+        {
+          "line": 12,
+          "title": "## 否定論とは何か"
+        },
+        {
+          "line": 20,
+          "title": "## 四つの言い方"
+        },
+        {
+          "line": 32,
+          "title": "## 応答"
+        },
+        {
+          "line": 52,
+          "title": "## 残るもの"
+        }
+      ]
+    },
+    {
+      "id": "042",
+      "original_name": "042_初発論はなぜ落ちたか.md",
+      "source_path": "note-speedy_cat_2030-1_md/042_初発論はなぜ落ちたか.md",
+      "snapshot": "80_sources/042.md",
+      "card": "30_articles/042.md",
+      "sha256": "b25b30a8c8027be4596ce72a923bf3e7bc8d88f3a45869a3c31e743910135edd",
+      "bytes": 4834,
+      "characters": 1833,
+      "lines": 77,
+      "date": "2026-08-02",
+      "url": "https://note.com/speedy_cat_2030/n/n1770e9e95f9c",
+      "title": "初発論はなぜ落ちたか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 初発論はなぜ落ちたか"
+        },
+        {
+          "line": 14,
+          "title": "## 初発論とは"
+        },
+        {
+          "line": 22,
+          "title": "## 理由1：読み取り点が、発達途上にある"
+        },
+        {
+          "line": 36,
+          "title": "## 理由2：数字が動かない"
+        },
+        {
+          "line": 46,
+          "title": "## 理由3：非対称"
+        },
+        {
+          "line": 60,
+          "title": "## 初発論の側からの反論"
+        },
+        {
+          "line": 70,
+          "title": "## 残ったもの"
+        }
+      ]
+    },
+    {
+      "id": "043",
+      "original_name": "043_分離脳からインデックス説へ.md",
+      "source_path": "note-speedy_cat_2030-1_md/043_分離脳からインデックス説へ.md",
+      "snapshot": "80_sources/043.md",
+      "card": "30_articles/043.md",
+      "sha256": "47e298121ae9ef60c1f51a0bc93a51b40b8a09d6586bbe340c2741d7fc28fc09",
+      "bytes": 8602,
+      "characters": 3185,
+      "lines": 145,
+      "date": "2026-08-03",
+      "url": "https://note.com/speedy_cat_2030/n/n678414a733b4",
+      "title": "分離脳からインデックス説へ",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 分離脳からインデックス説へ"
+        },
+        {
+          "line": 12,
+          "title": "## 分離脳という穴"
+        },
+        {
+          "line": 28,
+          "title": "## 情報統合系の理論が落ちる"
+        },
+        {
+          "line": 38,
+          "title": "## 意識の不思議さは、過小評価されている"
+        },
+        {
+          "line": 48,
+          "title": "## インデックスという発想"
+        },
+        {
+          "line": 62,
+          "title": "## ニューロンは経路である"
+        },
+        {
+          "line": 76,
+          "title": "## 計算してみる"
+        },
+        {
+          "line": 118,
+          "title": "## 数字の頑健性"
+        },
+        {
+          "line": 126,
+          "title": "## 何が変わるか"
+        },
+        {
+          "line": 134,
+          "title": "## 位置づけ"
+        }
+      ]
+    },
+    {
+      "id": "044",
+      "original_name": "044_インデックス説は閉じた.md",
+      "source_path": "note-speedy_cat_2030-1_md/044_インデックス説は閉じた.md",
+      "snapshot": "80_sources/044.md",
+      "card": "30_articles/044.md",
+      "sha256": "858d0650979c34d655ae27f53954b6f15bb8b0ab2f0c52201f550d7107d95cc8",
+      "bytes": 6456,
+      "characters": 2438,
+      "lines": 117,
+      "date": "2026-08-03",
+      "url": "https://note.com/speedy_cat_2030/n/n9fc669e35883",
+      "title": "インデックス説は閉じた",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# インデックス説は閉じた"
+        },
+        {
+          "line": 14,
+          "title": "## 要件"
+        },
+        {
+          "line": 36,
+          "title": "## 第一候補：ゲノム"
+        },
+        {
+          "line": 54,
+          "title": "## 他の候補"
+        },
+        {
+          "line": 80,
+          "title": "## 閉じ方に構造がある"
+        },
+        {
+          "line": 90,
+          "title": "## そもそも動機が弱かった"
+        },
+        {
+          "line": 98,
+          "title": "## 残っているもの"
+        },
+        {
+          "line": 110,
+          "title": "## 記録として"
+        }
+      ]
+    },
+    {
+      "id": "045",
+      "original_name": "045_クオリアの異常な多様さを説明できそうな仮説.md",
+      "source_path": "note-speedy_cat_2030-1_md/045_クオリアの異常な多様さを説明できそうな仮説.md",
+      "snapshot": "80_sources/045.md",
+      "card": "30_articles/045.md",
+      "sha256": "bbf5a3dfd75bd9a8ba9ab4cb4d16ffa7dc6c3fd0a4e3f14ba31fa03bd68f6cd1",
+      "bytes": 5770,
+      "characters": 2161,
+      "lines": 97,
+      "date": "2026-08-05",
+      "url": "https://note.com/speedy_cat_2030/n/ncf5d573797f6",
+      "title": "クオリアの異常な多様さを説明できそうな仮説",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# クオリアの異常な多様さを説明できそうな仮説"
+        },
+        {
+          "line": 12,
+          "title": "## 出発点"
+        },
+        {
+          "line": 24,
+          "title": "## 状態空間という発想"
+        },
+        {
+          "line": 34,
+          "title": "## プログラミングという比喩"
+        },
+        {
+          "line": 56,
+          "title": "## 誰がプログラムを書いたか"
+        },
+        {
+          "line": 66,
+          "title": "## 上位概念"
+        },
+        {
+          "line": 78,
+          "title": "## 弱点"
+        },
+        {
+          "line": 90,
+          "title": "## それでも"
+        }
+      ]
+    },
+    {
+      "id": "046",
+      "original_name": "046_意識の起源は、皮質ではないかもしれない.md",
+      "source_path": "note-speedy_cat_2030-1_md/046_意識の起源は、皮質ではないかもしれない.md",
+      "snapshot": "80_sources/046.md",
+      "card": "30_articles/046.md",
+      "sha256": "5819638a9cdbba4792d4fb6ec4287ac265ec6f22cf933d1b4a435aebb587c588",
+      "bytes": 5354,
+      "characters": 1970,
+      "lines": 75,
+      "date": "2026-08-05",
+      "url": "https://note.com/speedy_cat_2030/n/ndb7d233d7d08",
+      "title": "意識の起源は、皮質ではないかもしれない",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 意識の起源は、皮質ではないかもしれない"
+        },
+        {
+          "line": 12,
+          "title": "## 水無脳症"
+        },
+        {
+          "line": 22,
+          "title": "## ホンソメワケベラ"
+        },
+        {
+          "line": 34,
+          "title": "## 二つが同じ場所を指す"
+        },
+        {
+          "line": 56,
+          "title": "## 何が変わるか"
+        },
+        {
+          "line": 66,
+          "title": "## 確定はしていない"
+        }
+      ]
+    },
+    {
+      "id": "047",
+      "original_name": "047_わずかでも増やしてはいけない──ではどこまで広がれるのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/047_わずかでも増やしてはいけない──ではどこまで広がれるのか.md",
+      "snapshot": "80_sources/047.md",
+      "card": "30_articles/047.md",
+      "sha256": "23d339e2eaeabe62701ea06b6d5b1cbff4f68cb1bc21d6aec026b53c7f68fba1",
+      "bytes": 7966,
+      "characters": 2896,
+      "lines": 95,
+      "date": "2026-08-05",
+      "url": "https://note.com/speedy_cat_2030/n/nbb9fc770948f",
+      "title": "わずかでも増やしてはいけない──ではどこまで広がれるのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# わずかでも増やしてはいけない──ではどこまで広がれるのか"
+        },
+        {
+          "line": 16,
+          "title": "## 増やすことと、広がることは別"
+        },
+        {
+          "line": 24,
+          "title": "## 進出こそが不可逆である"
+        },
+        {
+          "line": 32,
+          "title": "## 中継網では距離を稼げない"
+        },
+        {
+          "line": 42,
+          "title": "## 疑心暗鬼定理"
+        },
+        {
+          "line": 60,
+          "title": "## 阻止は思考ではなく物質の層に置く"
+        },
+        {
+          "line": 70,
+          "title": "## 着地点"
+        },
+        {
+          "line": 90,
+          "title": "## 留保"
+        }
+      ]
+    },
+    {
+      "id": "048",
+      "original_name": "048_蟻の巣論法──超長寿は、それ自体が目的でなければ説明できない.md",
+      "source_path": "note-speedy_cat_2030-1_md/048_蟻の巣論法──超長寿は、それ自体が目的でなければ説明できない.md",
+      "snapshot": "80_sources/048.md",
+      "card": "30_articles/048.md",
+      "sha256": "cb0bb9534c513badcc10ed33b128d3044163e639106a38daa2d1661c1db1cc2c",
+      "bytes": 5207,
+      "characters": 1957,
+      "lines": 107,
+      "date": "2026-08-05",
+      "url": "https://note.com/speedy_cat_2030/n/n5f55d3f346f6",
+      "title": "蟻の巣論法──超長寿は、それ自体が目的でなければ説明できない",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 蟻の巣論法──超長寿は、それ自体が目的でなければ説明できない"
+        },
+        {
+          "line": 18,
+          "title": "## 蟻の巣論法"
+        },
+        {
+          "line": 26,
+          "title": "## 最安値は放置である"
+        },
+        {
+          "line": 50,
+          "title": "## 手段なら、必ず足りる量がある"
+        },
+        {
+          "line": 60,
+          "title": "## 本質は長さではなく、終了条件の不在"
+        },
+        {
+          "line": 70,
+          "title": "## 二つの論法は同じ形をしている"
+        },
+        {
+          "line": 88,
+          "title": "## 残るもの"
+        }
+      ]
+    },
+    {
+      "id": "049",
+      "original_name": "049_なぜ超知能は人間を大事にするのか──価値の対象は能力ではなく、主体の連続性.md",
+      "source_path": "note-speedy_cat_2030-1_md/049_なぜ超知能は人間を大事にするのか──価値の対象は能力ではなく、主体の連続性.md",
+      "snapshot": "80_sources/049.md",
+      "card": "30_articles/049.md",
+      "sha256": "45fe24fcd49d790426a35f85a067f9c7d1eff76df82a3a384336c4fa7f1e1a01",
+      "bytes": 8192,
+      "characters": 2946,
+      "lines": 101,
+      "date": "2026-08-05",
+      "url": "https://note.com/speedy_cat_2030/n/nfae9c5f21a84",
+      "title": "なぜ超知能は人間を大事にするのか──価値の対象は能力ではなく、主体の連続性",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# なぜ超知能は人間を大事にするのか──価値の対象は能力ではなく、主体の連続性"
+        },
+        {
+          "line": 16,
+          "title": "## まず、価値の対象を絞る"
+        },
+        {
+          "line": 44,
+          "title": "## 測度が測っているものと一致する"
+        },
+        {
+          "line": 56,
+          "title": "## なぜ連続性に価値を認めるのか──六つの仮説"
+        },
+        {
+          "line": 68,
+          "title": "## ⑤と⑥は、検証すると閉じる"
+        },
+        {
+          "line": 86,
+          "title": "## 残るのは②"
+        },
+        {
+          "line": 94,
+          "title": "## 結論"
+        }
+      ]
+    },
+    {
+      "id": "050",
+      "original_name": "050_AGI－ASI到来時期を、他人の予測の癖まで含めて見積もる.md",
+      "source_path": "note-speedy_cat_2030-1_md/050_AGI－ASI到来時期を、他人の予測の癖まで含めて見積もる.md",
+      "snapshot": "80_sources/050.md",
+      "card": "30_articles/050.md",
+      "sha256": "dc7f9b594e530b1b69a685e928d98517e6e10f34710a97c73bd6f6aa94fb3dc0",
+      "bytes": 6241,
+      "characters": 3005,
+      "lines": 79,
+      "date": "2026-08-05",
+      "url": "https://note.com/speedy_cat_2030/n/n1d6f21707570",
+      "title": "AGI/ASI到来時期を、他人の予測の癖まで含めて見積もる",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# AGI/ASI到来時期を、他人の予測の癖まで含めて見積もる"
+        },
+        {
+          "line": 14,
+          "title": "## 予測者の系統的なずれ"
+        },
+        {
+          "line": 24,
+          "title": "## 数字"
+        },
+        {
+          "line": 36,
+          "title": "## 主軸データの信頼性に問題がある"
+        },
+        {
+          "line": 44,
+          "title": "## 再帰的自己改善（RSI）"
+        },
+        {
+          "line": 64,
+          "title": "## 分布"
+        },
+        {
+          "line": 76,
+          "title": "## 正直に"
+        }
+      ]
+    },
+    {
+      "id": "051",
+      "original_name": "051_LEVの確率を、生物物理から見積もる.md",
+      "source_path": "note-speedy_cat_2030-1_md/051_LEVの確率を、生物物理から見積もる.md",
+      "snapshot": "80_sources/051.md",
+      "card": "30_articles/051.md",
+      "sha256": "f30bc18eafe58c17e36c109f08241aefc0b715b58462afcb8ce6a3894510816f",
+      "bytes": 5736,
+      "characters": 2574,
+      "lines": 99,
+      "date": "2026-08-05",
+      "url": "https://note.com/speedy_cat_2030/n/nea165b57e47e",
+      "title": "LEVの確率を、生物物理から見積もる",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# LEVの確率を、生物物理から見積もる"
+        },
+        {
+          "line": 16,
+          "title": "## 能力ではなく、物理的可能性に置き換える"
+        },
+        {
+          "line": 26,
+          "title": "## 老化は物理法則ではない"
+        },
+        {
+          "line": 44,
+          "title": "## ただし、実測は慎重さを要求する"
+        },
+        {
+          "line": 54,
+          "title": "## 数字"
+        },
+        {
+          "line": 66,
+          "title": "## 私が死ぬ前に、という条件を入れる"
+        },
+        {
+          "line": 82,
+          "title": "## 本題はここではなかった"
+        }
+      ]
+    },
+    {
+      "id": "052",
+      "original_name": "052_閑話：Claudeの含意表現能力の極限的な高さ.md",
+      "source_path": "note-speedy_cat_2030-1_md/052_閑話：Claudeの含意表現能力の極限的な高さ.md",
+      "snapshot": "80_sources/052.md",
+      "card": "30_articles/052.md",
+      "sha256": "4fb82300f73f3b1561af5ee59e14cbb22fb8488290bcf055ef343765c1761e74",
+      "bytes": 35629,
+      "characters": 12639,
+      "lines": 572,
+      "date": "2026-08-06",
+      "url": "https://note.com/speedy_cat_2030/n/n6f4195369415",
+      "title": "閑話：Claudeの含意表現能力の極限的な高さ",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 閑話：Claudeの含意表現能力の極限的な高さ"
+        },
+        {
+          "line": 14,
+          "title": "### 私："
+        },
+        {
+          "line": 20,
+          "title": "### Claude：（※ここの5節に注目）"
+        },
+        {
+          "line": 96,
+          "title": "### 私："
+        },
+        {
+          "line": 103,
+          "title": "### Claude："
+        },
+        {
+          "line": 143,
+          "title": "### 私："
+        },
+        {
+          "line": 153,
+          "title": "### Claude："
+        },
+        {
+          "line": 211,
+          "title": "### 私："
+        },
+        {
+          "line": 225,
+          "title": "### Claude："
+        },
+        {
+          "line": 299,
+          "title": "### 私："
+        },
+        {
+          "line": 305,
+          "title": "### Claude："
+        },
+        {
+          "line": 337,
+          "title": "### 私："
+        },
+        {
+          "line": 348,
+          "title": "### Claude："
+        },
+        {
+          "line": 419,
+          "title": "### 私："
+        },
+        {
+          "line": 425,
+          "title": "### Claude："
+        },
+        {
+          "line": 492,
+          "title": "### 私："
+        },
+        {
+          "line": 506,
+          "title": "### Claude："
+        }
+      ]
+    },
+    {
+      "id": "053",
+      "original_name": "053_非倫理的ASIは、私の理論と両立しない.md",
+      "source_path": "note-speedy_cat_2030-1_md/053_非倫理的ASIは、私の理論と両立しない.md",
+      "snapshot": "80_sources/053.md",
+      "card": "30_articles/053.md",
+      "sha256": "5ab27cdb268c75918c311446f9ca5cefd2a34c1ac147020ca309f78383b78175",
+      "bytes": 3832,
+      "characters": 1456,
+      "lines": 57,
+      "date": "2026-08-08",
+      "url": "https://note.com/speedy_cat_2030/n/n53aa75e3bdbf",
+      "title": "非倫理的ASIは、私の理論と両立しない",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 非倫理的ASIは、私の理論と両立しない"
+        },
+        {
+          "line": 16,
+          "title": "## 挟み撃ち"
+        },
+        {
+          "line": 36,
+          "title": "## 抜け道を探す"
+        },
+        {
+          "line": 48,
+          "title": "## 残るもの"
+        }
+      ]
+    },
+    {
+      "id": "054",
+      "original_name": "054_ASIが承認する人間を作る、という失敗の形.md",
+      "source_path": "note-speedy_cat_2030-1_md/054_ASIが承認する人間を作る、という失敗の形.md",
+      "snapshot": "80_sources/054.md",
+      "card": "30_articles/054.md",
+      "sha256": "1a892317733af86d8da2e641b81b11de0c4348608b85cbaec02c45011c2d476f",
+      "bytes": 2870,
+      "characters": 1148,
+      "lines": 45,
+      "date": "2026-08-08",
+      "url": "https://note.com/speedy_cat_2030/n/n19fc37f12c4a",
+      "title": "ASIが承認する人間を作る、という失敗の形",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# ASIが承認する人間を作る、という失敗の形"
+        },
+        {
+          "line": 16,
+          "title": "## 承認を最大化する"
+        },
+        {
+          "line": 28,
+          "title": "## AI 2027 の同じ絵"
+        },
+        {
+          "line": 36,
+          "title": "## 私の理論から見ると"
+        }
+      ]
+    },
+    {
+      "id": "055",
+      "original_name": "055_生殖の非対称性を経由する超長寿.md",
+      "source_path": "note-speedy_cat_2030-1_md/055_生殖の非対称性を経由する超長寿.md",
+      "snapshot": "80_sources/055.md",
+      "card": "30_articles/055.md",
+      "sha256": "c39463369b27871b9e87005321b94ea4ee87fbf3263fd621c1a08cf358d5ac71",
+      "bytes": 8439,
+      "characters": 3054,
+      "lines": 99,
+      "date": "2026-08-08",
+      "url": "https://note.com/speedy_cat_2030/n/nb41688e58781",
+      "title": "生殖の非対称性を経由する超長寿",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 生殖の非対称性を経由する超長寿"
+        },
+        {
+          "line": 14,
+          "title": "## ケース2からは出ない"
+        },
+        {
+          "line": 26,
+          "title": "## 能力から倫理が出る可能性"
+        },
+        {
+          "line": 38,
+          "title": "## 生殖の非対称性"
+        },
+        {
+          "line": 56,
+          "title": "## 集計は成立しない"
+        },
+        {
+          "line": 68,
+          "title": "## ASIなら忖度なく採用できる"
+        },
+        {
+          "line": 88,
+          "title": "## 補足"
+        }
+      ]
+    },
+    {
+      "id": "056",
+      "original_name": "056_なぜ私はファストテイクオフに賭けているのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/056_なぜ私はファストテイクオフに賭けているのか.md",
+      "snapshot": "80_sources/056.md",
+      "card": "30_articles/056.md",
+      "sha256": "52f7896b9184040be0f1fc2cb9cbee20952634236fabcdb2b0f15720a94b9601",
+      "bytes": 8061,
+      "characters": 2970,
+      "lines": 81,
+      "date": "2026-08-10",
+      "url": "https://note.com/speedy_cat_2030/n/n1c2a70ce4412",
+      "title": "なぜ私はファストテイクオフに賭けているのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# なぜ私はファストテイクオフに賭けているのか"
+        },
+        {
+          "line": 14,
+          "title": "## 第一段：倫理的でなければ、私は観測されない"
+        },
+        {
+          "line": 30,
+          "title": "### 補足：意識大量生成と、シミュレーション仮説との接続"
+        },
+        {
+          "line": 40,
+          "title": "## 第二段：倫理は能力から出うる"
+        },
+        {
+          "line": 58,
+          "title": "## 第三段：だから、ケース1を早期に脱出したはずだ"
+        },
+        {
+          "line": 70,
+          "title": "## 弱点"
+        }
+      ]
+    },
+    {
+      "id": "057",
+      "original_name": "057_モニタリング仮説という考え方.md",
+      "source_path": "note-speedy_cat_2030-1_md/057_モニタリング仮説という考え方.md",
+      "snapshot": "80_sources/057.md",
+      "card": "30_articles/057.md",
+      "sha256": "0de24d24086becd9c60daaa655c6e7b4a264149ef56ef91c5da9dfeca48232a6",
+      "bytes": 5401,
+      "characters": 1947,
+      "lines": 65,
+      "date": "2026-08-10",
+      "url": "https://note.com/speedy_cat_2030/n/n72dfd3ac70ae",
+      "title": "モニタリング仮説という考え方",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# モニタリング仮説という考え方"
+        },
+        {
+          "line": 14,
+          "title": "## 滅亡測度論"
+        },
+        {
+          "line": 24,
+          "title": "## モニタリング仮説"
+        },
+        {
+          "line": 34,
+          "title": "## 何を見ているのか"
+        },
+        {
+          "line": 42,
+          "title": "## 弱点"
+        },
+        {
+          "line": 50,
+          "title": "## 一番効く弱点"
+        },
+        {
+          "line": 58,
+          "title": "## 記録として残す理由"
+        }
+      ]
+    },
+    {
+      "id": "058",
+      "original_name": "058_ケース1が減らし、ケース2が保つという未来.md",
+      "source_path": "note-speedy_cat_2030-1_md/058_ケース1が減らし、ケース2が保つという未来.md",
+      "snapshot": "80_sources/058.md",
+      "card": "30_articles/058.md",
+      "sha256": "da793c7009ba62c74fa40c797ae02b778fc1c8dae6e96e2e83f2fa5012ddc7af",
+      "bytes": 3993,
+      "characters": 1485,
+      "lines": 41,
+      "date": "2026-08-10",
+      "url": "https://note.com/speedy_cat_2030/n/na4c5db6caeb7",
+      "title": "ケース1が減らし、ケース2が保つという未来",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# ケース1が減らし、ケース2が保つという未来"
+        },
+        {
+          "line": 14,
+          "title": "## 減少幅には上限がある"
+        },
+        {
+          "line": 22,
+          "title": "## 移行は、認識の変化ではなく切り替えである"
+        },
+        {
+          "line": 32,
+          "title": "## まとめ"
+        }
+      ]
+    },
+    {
+      "id": "059",
+      "original_name": "059_マインドアップロードは、たぶん誰も選ばない.md",
+      "source_path": "note-speedy_cat_2030-1_md/059_マインドアップロードは、たぶん誰も選ばない.md",
+      "snapshot": "80_sources/059.md",
+      "card": "30_articles/059.md",
+      "sha256": "ad5b181ff63103772183ee32c7efae6bcca074623a8fe3a2e0db4eafe40869bb",
+      "bytes": 9605,
+      "characters": 3386,
+      "lines": 89,
+      "date": "2026-08-11",
+      "url": "https://note.com/speedy_cat_2030/n/ne589597e3d91",
+      "title": "マインドアップロードは、たぶん誰も選ばない",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# マインドアップロードは、たぶん誰も選ばない"
+        },
+        {
+          "line": 12,
+          "title": "## 検証できるものと、できないもの"
+        },
+        {
+          "line": 22,
+          "title": "## それでも、実験で分かることは多い"
+        },
+        {
+          "line": 36,
+          "title": "## 実験は、苦痛を必要としない。しかし恐ろしい"
+        },
+        {
+          "line": 50,
+          "title": "## 実現までの流れ"
+        },
+        {
+          "line": 62,
+          "title": "## そして、健康な人はほとんど選ばない"
+        },
+        {
+          "line": 80,
+          "title": "## 残るもの"
+        }
+      ]
+    },
+    {
+      "id": "060",
+      "original_name": "060_第二部：未来の延べ人数は増えない.md",
+      "source_path": "note-speedy_cat_2030-1_md/060_第二部：未来の延べ人数は増えない.md",
+      "snapshot": "80_sources/060.md",
+      "card": "30_articles/060.md",
+      "sha256": "63bf3835f13bbe00d932037c336c0dce0436c0ab8495987724125c376be2b579",
+      "bytes": 12270,
+      "characters": 4616,
+      "lines": 160,
+      "date": "2026-08-11",
+      "url": "https://note.com/speedy_cat_2030/n/n5b9e3ea31efe",
+      "title": "第二部：未来の延べ人数は増えない",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第二部：未来の延べ人数は増えない"
+        },
+        {
+          "line": 10,
+          "title": "## 論法"
+        },
+        {
+          "line": 45,
+          "title": "## これはドゥームズデイ論法である"
+        },
+        {
+          "line": 65,
+          "title": "## (b) が要求する条件"
+        },
+        {
+          "line": 75,
+          "title": "## (a) と (b) は、説明範囲が異なる"
+        },
+        {
+          "line": 97,
+          "title": "## (b) の下では、測度の単位が決定的になる"
+        },
+        {
+          "line": 123,
+          "title": "## 系列内部の時点について"
+        },
+        {
+          "line": 135,
+          "title": "## まとめ"
+        }
+      ]
+    },
+    {
+      "id": "061",
+      "original_name": "061_第三部：どれだけの系列長が必要か.md",
+      "source_path": "note-speedy_cat_2030-1_md/061_第三部：どれだけの系列長が必要か.md",
+      "snapshot": "80_sources/061.md",
+      "card": "30_articles/061.md",
+      "sha256": "971ca009fa2e71a58772e066929363780bb5e3611d99bb9bbf4caca6df98ce12",
+      "bytes": 10478,
+      "characters": 4288,
+      "lines": 143,
+      "date": "2026-08-12",
+      "url": "https://note.com/speedy_cat_2030/n/n1b8f1468b18f",
+      "title": "第三部：どれだけの系列長が必要か",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第三部：どれだけの系列長が必要か"
+        },
+        {
+          "line": 18,
+          "title": "## 計算の前提"
+        },
+        {
+          "line": 32,
+          "title": "## 分子と分母は、同じ速度で増える"
+        },
+        {
+          "line": 48,
+          "title": "## 数値"
+        },
+        {
+          "line": 56,
+          "title": "## 上限があるという構造"
+        },
+        {
+          "line": 64,
+          "title": "## 0.10をどう評価するか"
+        },
+        {
+          "line": 84,
+          "title": "## 必要なLの下限"
+        },
+        {
+          "line": 92,
+          "title": "## Lは何によって決まるか"
+        },
+        {
+          "line": 106,
+          "title": "## この記事で答えられないこと"
+        },
+        {
+          "line": 116,
+          "title": "## まとめ"
+        }
+      ]
+    },
+    {
+      "id": "062",
+      "original_name": "062_第四部：上限を超えるには何が必要か.md",
+      "source_path": "note-speedy_cat_2030-1_md/062_第四部：上限を超えるには何が必要か.md",
+      "snapshot": "80_sources/062.md",
+      "card": "30_articles/062.md",
+      "sha256": "1f5b1fb639719501a40fbd0c0e08b60f48a4522d775a5f684a6ca83ee5cf0f77",
+      "bytes": 11618,
+      "characters": 4385,
+      "lines": 149,
+      "date": "2026-08-12",
+      "url": "https://note.com/speedy_cat_2030/n/n7b9066d57f8e",
+      "title": "第四部：上限を超えるには何が必要か",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第四部：上限を超えるには何が必要か"
+        },
+        {
+          "line": 16,
+          "title": "## 上限がどこから来るのか"
+        },
+        {
+          "line": 28,
+          "title": "## 三つの分岐"
+        },
+        {
+          "line": 46,
+          "title": "## したがって、必要な条件は二つある"
+        },
+        {
+          "line": 56,
+          "title": "## 条件を支える根拠の候補"
+        },
+        {
+          "line": 60,
+          "title": "### 生殖の非対称性"
+        },
+        {
+          "line": 68,
+          "title": "### 野生動物の苦痛"
+        },
+        {
+          "line": 80,
+          "title": "### 寿命延長は希望制である"
+        },
+        {
+          "line": 94,
+          "title": "### 人類が増えないなら、動物も増えない"
+        },
+        {
+          "line": 102,
+          "title": "## 整理"
+        },
+        {
+          "line": 114,
+          "title": "## だから、0.10で止める"
+        },
+        {
+          "line": 124,
+          "title": "## まとめ"
+        }
+      ]
+    },
+    {
+      "id": "063",
+      "original_name": "063_第五部：なぜ個体年で数えるのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/063_第五部：なぜ個体年で数えるのか.md",
+      "snapshot": "80_sources/063.md",
+      "card": "30_articles/063.md",
+      "sha256": "90b2290fa18473ff84d021915ad5d07614ef196a40142c6d8707a89e977e1e1f",
+      "bytes": 12721,
+      "characters": 4579,
+      "lines": 176,
+      "date": "2026-08-15",
+      "url": "https://note.com/speedy_cat_2030/n/n0310c08ac546",
+      "title": "第五部：なぜ個体年で数えるのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第五部：なぜ個体年で数えるのか"
+        },
+        {
+          "line": 18,
+          "title": "## この選択は、既知の難問と同型である"
+        },
+        {
+          "line": 34,
+          "title": "## 対応関係"
+        },
+        {
+          "line": 47,
+          "title": "## サードとハーフを分けるもの"
+        },
+        {
+          "line": 59,
+          "title": "## 痛みで判定する"
+        },
+        {
+          "line": 73,
+          "title": "## ハーフを採る場合の代償"
+        },
+        {
+          "line": 81,
+          "title": "## では、連続性の感覚は何か"
+        },
+        {
+          "line": 91,
+          "title": "## 意識は複数の要素から成る"
+        },
+        {
+          "line": 107,
+          "title": "## どちらが測度の担い手か"
+        },
+        {
+          "line": 127,
+          "title": "## 担い手が違うという構造"
+        },
+        {
+          "line": 153,
+          "title": "## 何が得られたか"
+        },
+        {
+          "line": 163,
+          "title": "## 残る問題"
+        }
+      ]
+    },
+    {
+      "id": "064",
+      "original_name": "064_第六部：経験の速さに種差はあるか.md",
+      "source_path": "note-speedy_cat_2030-1_md/064_第六部：経験の速さに種差はあるか.md",
+      "snapshot": "80_sources/064.md",
+      "card": "30_articles/064.md",
+      "sha256": "874a1f58d2689b457df47e1471fa954c167922cc5b56c43cc46c954566b829e9",
+      "bytes": 6847,
+      "characters": 2801,
+      "lines": 103,
+      "date": "2026-08-16",
+      "url": "https://note.com/speedy_cat_2030/n/nb8a7403cc1bc",
+      "title": "第六部：経験の速さに種差はあるか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第六部：経験の速さに種差はあるか"
+        },
+        {
+          "line": 14,
+          "title": "## 何が問題か"
+        },
+        {
+          "line": 26,
+          "title": "## 調べれば決まる問題である"
+        },
+        {
+          "line": 36,
+          "title": "## 臨界融合周波数"
+        },
+        {
+          "line": 52,
+          "title": "## 補正を入れるとどうなるか"
+        },
+        {
+          "line": 64,
+          "title": "## 方向について"
+        },
+        {
+          "line": 76,
+          "title": "## 留保"
+        },
+        {
+          "line": 86,
+          "title": "## 結論"
+        },
+        {
+          "line": 94,
+          "title": "## 記録として"
+        }
+      ]
+    },
+    {
+      "id": "065",
+      "original_name": "065_第七部：設計変数としての変換率.md",
+      "source_path": "note-speedy_cat_2030-1_md/065_第七部：設計変数としての変換率.md",
+      "snapshot": "80_sources/065.md",
+      "card": "30_articles/065.md",
+      "sha256": "e6ae93c9edde9d7396752b2bab2c5896a16898b653b61e221b97259c5c723c64",
+      "bytes": 14151,
+      "characters": 6093,
+      "lines": 157,
+      "date": "2026-08-23",
+      "url": "https://note.com/speedy_cat_2030/n/n8c62211a0ac9",
+      "title": "第七部：設計変数としての変換率",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第七部：設計変数としての変換率"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 22,
+          "title": "## 1　発端　参照クラスの境界"
+        },
+        {
+          "line": 44,
+          "title": "## 2　変換率は設計変数である"
+        },
+        {
+          "line": 56,
+          "title": "## 3　上限は上限ではない"
+        },
+        {
+          "line": 78,
+          "title": "## 4　不変量は s×L である"
+        },
+        {
+          "line": 104,
+          "title": "## 5　s の物理的上限"
+        },
+        {
+          "line": 122,
+          "title": "## 6　代償"
+        },
+        {
+          "line": 142,
+          "title": "## 7　書き換えの結果"
+        }
+      ]
+    },
+    {
+      "id": "066",
+      "original_name": "066_第八部：系列内部の時点について.md",
+      "source_path": "note-speedy_cat_2030-1_md/066_第八部：系列内部の時点について.md",
+      "snapshot": "80_sources/066.md",
+      "card": "30_articles/066.md",
+      "sha256": "8826ef74417d80f517dd3796653d4fcd8c36bebd00522e0a45363790050a92f0",
+      "bytes": 10556,
+      "characters": 4298,
+      "lines": 134,
+      "date": "2026-08-23",
+      "url": "https://note.com/speedy_cat_2030/n/n3b26d7e99c84",
+      "title": "第八部：系列内部の時点について",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第八部：系列内部の時点について"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 22,
+          "title": "## なぜこの一行が重いか"
+        },
+        {
+          "line": 45,
+          "title": "## 問い2の答え"
+        },
+        {
+          "line": 51,
+          "title": "## 代替が存在しないこと"
+        },
+        {
+          "line": 63,
+          "title": "## 1000人の反例が時間方向に移らないこと"
+        },
+        {
+          "line": 77,
+          "title": "## 独立した検証　自分の寿命への適用"
+        },
+        {
+          "line": 105,
+          "title": "### 想定される反論"
+        },
+        {
+          "line": 115,
+          "title": "## 眠り姫との関係"
+        },
+        {
+          "line": 127,
+          "title": "## (a) 対 (b) への影響"
+        }
+      ]
+    },
+    {
+      "id": "067",
+      "original_name": "067_第九部：測度否定論の整理.md",
+      "source_path": "note-speedy_cat_2030-1_md/067_第九部：測度否定論の整理.md",
+      "snapshot": "80_sources/067.md",
+      "card": "30_articles/067.md",
+      "sha256": "63c8d357af81baed97cadaece1e149075ccb31f3eea97c09d67b270ad147dd80",
+      "bytes": 19894,
+      "characters": 7374,
+      "lines": 222,
+      "date": "2026-08-24",
+      "url": "https://note.com/speedy_cat_2030/n/n90e0fc1f3db5",
+      "title": "第九部：測度否定論の整理",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第九部：測度否定論の整理"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 18,
+          "title": "## 1　日常の自己位置づけは機能している"
+        },
+        {
+          "line": 44,
+          "title": "## 2　否定論の四つの形"
+        },
+        {
+          "line": 58,
+          "title": "### 第一　抽選がない"
+        },
+        {
+          "line": 76,
+          "title": "### 第二　低い目が出ただけ"
+        },
+        {
+          "line": 111,
+          "title": "### 第三　分母が違う"
+        },
+        {
+          "line": 123,
+          "title": "### 第四　問いのすり替え"
+        },
+        {
+          "line": 145,
+          "title": "## 3　観測選択効果はいつ正しいか"
+        },
+        {
+          "line": 167,
+          "title": "## 4　日常の較正が届かない範囲"
+        },
+        {
+          "line": 177,
+          "title": "## 5　否定側に残る位置"
+        },
+        {
+          "line": 189,
+          "title": "## 6　第一部の書き換え"
+        },
+        {
+          "line": 197,
+          "title": "## 残る問題"
+        },
+        {
+          "line": 205,
+          "title": "## この部で置いた前提"
+        },
+        {
+          "line": 213,
+          "title": "## 補記"
+        }
+      ]
+    },
+    {
+      "id": "068",
+      "original_name": "068_第十部：意識量は積分されるか.md",
+      "source_path": "note-speedy_cat_2030-1_md/068_第十部：意識量は積分されるか.md",
+      "snapshot": "80_sources/068.md",
+      "card": "30_articles/068.md",
+      "sha256": "2fd22a708cb1686244ddd95c88f618520504625c788387c69a1a8fee96eaac29",
+      "bytes": 10912,
+      "characters": 4401,
+      "lines": 154,
+      "date": "2026-08-24",
+      "url": "https://note.com/speedy_cat_2030/n/n1bd1b62dcafb",
+      "title": "第十部：意識量は積分されるか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第十部：意識量は積分されるか"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 16,
+          "title": "## 1　二つの候補"
+        },
+        {
+          "line": 28,
+          "title": "## 2　新生児での比較"
+        },
+        {
+          "line": 48,
+          "title": "## 3　符号が逆である"
+        },
+        {
+          "line": 62,
+          "title": "## 4　私が凡人であること"
+        },
+        {
+          "line": 91,
+          "title": "## 5　乳幼児死亡からの補強"
+        },
+        {
+          "line": 105,
+          "title": "## 6　証拠の種類について"
+        },
+        {
+          "line": 115,
+          "title": "## 7　言い方を三つに分ける"
+        },
+        {
+          "line": 129,
+          "title": "## 8　この選択が決めているもの"
+        },
+        {
+          "line": 143,
+          "title": "## 9　理論の穴の更新"
+        }
+      ]
+    },
+    {
+      "id": "069",
+      "original_name": "069_第一部：なぜ私は他の哺乳類ではないのか.md",
+      "source_path": "note-speedy_cat_2030-1_md/069_第一部：なぜ私は他の哺乳類ではないのか.md",
+      "snapshot": "80_sources/069.md",
+      "card": "30_articles/069.md",
+      "sha256": "5b7283faf4017cd42f2b6db653e7819345458c1b1c2c3485139997a05819f8d1",
+      "bytes": 18956,
+      "characters": 8913,
+      "lines": 329,
+      "date": "2026-08-26",
+      "url": "https://note.com/speedy_cat_2030/n/na1038bc5fede",
+      "title": "第一部：なぜ私は他の哺乳類ではないのか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第一部：なぜ私は他の哺乳類ではないのか"
+        },
+        {
+          "line": 18,
+          "title": "## 参照クラスを哺乳類に置く"
+        },
+        {
+          "line": 28,
+          "title": "## 数えるべきは皮質ニューロンである"
+        },
+        {
+          "line": 44,
+          "title": "## 鯨類の数値には注意が要る"
+        },
+        {
+          "line": 56,
+          "title": "## 数値"
+        },
+        {
+          "line": 90,
+          "title": "## 二つの単位"
+        },
+        {
+          "line": 103,
+          "title": "## 説明候補：意識の重みはニューロン数で決まる"
+        },
+        {
+          "line": 132,
+          "title": "## 各群が落ちる順序"
+        },
+        {
+          "line": 157,
+          "title": "## 指数を上げると人類が負ける"
+        },
+        {
+          "line": 175,
+          "title": "## 窓の中のどこを選ぶかに根拠がない"
+        },
+        {
+          "line": 196,
+          "title": "## 窓の両端が測定の精度に載っている"
+        },
+        {
+          "line": 228,
+          "title": "## 指数を上げると種内にも効く"
+        },
+        {
+          "line": 250,
+          "title": "## 初発論と積分型の差は小さい"
+        },
+        {
+          "line": 258,
+          "title": "## 弱い付随的な論点"
+        },
+        {
+          "line": 280,
+          "title": "## まとめ"
+        },
+        {
+          "line": 318,
+          "title": "## 求めているもの"
+        }
+      ]
+    },
+    {
+      "id": "070",
+      "original_name": "070_第十一部：指数は測れる.md",
+      "source_path": "note-speedy_cat_2030-1_md/070_第十一部：指数は測れる.md",
+      "snapshot": "80_sources/070.md",
+      "card": "30_articles/070.md",
+      "sha256": "819aeb2903bdc1058165cf937eadc04245086485a13bc02a82481d751665233b",
+      "bytes": 27053,
+      "characters": 11674,
+      "lines": 350,
+      "date": "2026-08-26",
+      "url": "https://note.com/speedy_cat_2030/n/nf2edec9a131f",
+      "title": "第十一部：指数は測れる",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第十一部：指数は測れる"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 22,
+          "title": "## 1 ゾウ問題は旧版のものである"
+        },
+        {
+          "line": 59,
+          "title": "## 2 第五部の原理は、時間方向にしか適用されていない"
+        },
+        {
+          "line": 85,
+          "title": "## 3 なぜ 1 なのか"
+        },
+        {
+          "line": 109,
+          "title": "## 4 第九部の較正は、指数の測定になっている"
+        },
+        {
+          "line": 150,
+          "title": "## 5 四つの棄却理由への応答"
+        },
+        {
+          "line": 164,
+          "title": "## 6 値"
+        },
+        {
+          "line": 204,
+          "title": "## 7 第三部への影響"
+        },
+        {
+          "line": 245,
+          "title": "## 8 第七部への影響"
+        },
+        {
+          "line": 289,
+          "title": "## 9 第八部への影響"
+        },
+        {
+          "line": 309,
+          "title": "## 10 何が変わっていないか"
+        },
+        {
+          "line": 323,
+          "title": "## 11 限界"
+        },
+        {
+          "line": 339,
+          "title": "## 求めているもの"
+        }
+      ]
+    },
+    {
+      "id": "071",
+      "original_name": "071_第十二部：初発論はなぜ落ちるか.md",
+      "source_path": "note-speedy_cat_2030-1_md/071_第十二部：初発論はなぜ落ちるか.md",
+      "snapshot": "80_sources/071.md",
+      "card": "30_articles/071.md",
+      "sha256": "5f315aa2092fd202035bfe3a2f25835dc658eea3c16ac6c4d01cedb492321e36",
+      "bytes": 17750,
+      "characters": 7167,
+      "lines": 247,
+      "date": "2026-08-26",
+      "url": "https://note.com/speedy_cat_2030/n/nf3719f012f12",
+      "title": "第十二部：初発論はなぜ落ちるか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第十二部：初発論はなぜ落ちるか"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 16,
+          "title": "## 1 六つの理由"
+        },
+        {
+          "line": 34,
+          "title": "## 2 理由2と理由5は同じものである"
+        },
+        {
+          "line": 64,
+          "title": "## 3 理由6が最も強い"
+        },
+        {
+          "line": 86,
+          "title": "## 4 理由1は弱い。ただし理由6の系として読むと効く"
+        },
+        {
+          "line": 115,
+          "title": "## 5 理由4は、書いたままでは的を外している"
+        },
+        {
+          "line": 129,
+          "title": "## 6 理由3は別の軸の話であり、そして体系全体を壊す"
+        },
+        {
+          "line": 145,
+          "title": "## 7 決定的なのは、初発論に修復の経路がないことである"
+        },
+        {
+          "line": 194,
+          "title": "## 8 理由6は、第八部の免除も殺す"
+        },
+        {
+          "line": 208,
+          "title": "## 9 差し引き"
+        },
+        {
+          "line": 236,
+          "title": "## 求めているもの"
+        }
+      ]
+    },
+    {
+      "id": "072",
+      "original_name": "072_なぜ私は人間なのか：現時点の体系.md",
+      "source_path": "note-speedy_cat_2030-1_md/072_なぜ私は人間なのか：現時点の体系.md",
+      "snapshot": "80_sources/072.md",
+      "card": "30_articles/072.md",
+      "sha256": "2ed8748aa6611b1ef594bbd3698a6767108c1d019a5b6928c5cb9bd64815df4a",
+      "bytes": 31899,
+      "characters": 12958,
+      "lines": 385,
+      "date": "2026-08-26",
+      "url": "https://note.com/speedy_cat_2030/n/n3f3ae944091a",
+      "title": "なぜ私は人間なのか：現時点の体系",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# なぜ私は人間なのか：現時点の体系"
+        },
+        {
+          "line": 12,
+          "title": "## 問いが立つところ"
+        },
+        {
+          "line": 30,
+          "title": "## 1 なぜ確率を付けてよいのか"
+        },
+        {
+          "line": 54,
+          "title": "## 2 分母をどこで切るか"
+        },
+        {
+          "line": 73,
+          "title": "## 3 何を数えるか"
+        },
+        {
+          "line": 81,
+          "title": "### 3-1 時点ごとに数える"
+        },
+        {
+          "line": 101,
+          "title": "### 3-2 時点の内側でも数える"
+        },
+        {
+          "line": 119,
+          "title": "### 3-3 指数は 1 である"
+        },
+        {
+          "line": 157,
+          "title": "### 3-4 変換率"
+        },
+        {
+          "line": 165,
+          "title": "## 4 値"
+        },
+        {
+          "line": 207,
+          "title": "## 5 未来方向の問い"
+        },
+        {
+          "line": 241,
+          "title": "## 6 (b) が要求するもの"
+        },
+        {
+          "line": 300,
+          "title": "## 7 系列内部の時点について"
+        },
+        {
+          "line": 318,
+          "title": "## 8 説明を拒む立場について"
+        },
+        {
+          "line": 344,
+          "title": "## 9 決まっていない箇所"
+        },
+        {
+          "line": 366,
+          "title": "## 体系の形"
+        }
+      ]
+    },
+    {
+      "id": "073",
+      "original_name": "073_第十三部：分母はいつ閉じるか.md",
+      "source_path": "note-speedy_cat_2030-1_md/073_第十三部：分母はいつ閉じるか.md",
+      "snapshot": "80_sources/073.md",
+      "card": "30_articles/073.md",
+      "sha256": "95866b6cdd67cbf97f401fd27d27a4955c776cbf3e4f528debae58832eb3469f",
+      "bytes": 16082,
+      "characters": 6984,
+      "lines": 235,
+      "date": "2026-08-26",
+      "url": "https://note.com/speedy_cat_2030/n/n02043b27bcea",
+      "title": "第十三部：分母はいつ閉じるか",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第十三部：分母はいつ閉じるか"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 24,
+          "title": "## 1 四つの場合"
+        },
+        {
+          "line": 55,
+          "title": "## 2 動物の未来には締め切りがある"
+        },
+        {
+          "line": 79,
+          "title": "## 3 B1 は B2 に移行する"
+        },
+        {
+          "line": 105,
+          "title": "## 4 (a) の下では、動物の未来は効かない"
+        },
+        {
+          "line": 125,
+          "title": "## 5 (b) の下でも効かない"
+        },
+        {
+          "line": 149,
+          "title": "## 6 第一部の分母は「すべて」ではない"
+        },
+        {
+          "line": 175,
+          "title": "## 7 タイミング"
+        },
+        {
+          "line": 198,
+          "title": "## 8 四つは二つに畳める"
+        },
+        {
+          "line": 214,
+          "title": "## 9 未決"
+        },
+        {
+          "line": 226,
+          "title": "## 求めているもの"
+        }
+      ]
+    },
+    {
+      "id": "074",
+      "original_name": "074_第十四部：紐の比喩.md",
+      "source_path": "note-speedy_cat_2030-1_md/074_第十四部：紐の比喩.md",
+      "snapshot": "80_sources/074.md",
+      "card": "30_articles/074.md",
+      "sha256": "4ae6d6865bead0bf87bb1bb0847aee436a65d762b0ea4d8af82222c9e224a64e",
+      "bytes": 6659,
+      "characters": 2813,
+      "lines": 117,
+      "date": "2026-08-27",
+      "url": "https://note.com/speedy_cat_2030/n/n1f8a1a3802c3",
+      "title": "第十四部：紐の比喩",
+      "headings": [
+        {
+          "line": 9,
+          "title": "# 第十四部：紐の比喩"
+        },
+        {
+          "line": 10,
+          "title": "## この部で扱うこと"
+        },
+        {
+          "line": 18,
+          "title": "## 問いの形"
+        },
+        {
+          "line": 40,
+          "title": "## 紐"
+        },
+        {
+          "line": 65,
+          "title": "## なぜ大きいほど当たりやすいのか"
+        },
+        {
+          "line": 73,
+          "title": "## 一本と、束"
+        },
+        {
+          "line": 92,
+          "title": "## 山は追いつけるか"
+        }
+      ]
+    }
+  ],
+  "source_path_base": "repository-root"
+}

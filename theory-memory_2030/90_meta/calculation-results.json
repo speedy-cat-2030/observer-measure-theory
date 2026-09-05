@@ -1,0 +1,273 @@
+{
+  "status": "editorial arithmetic from rounded source inputs; not scientific verification",
+  "equation": "P(L)=(H0+h*s*L)/(H0+h*s*L+A0+a*min(L,Tb))",
+  "inputs": {
+    "H0": 8e+22,
+    "h": 163000000000000000000,
+    "Tb": 1500000000,
+    "classes": {
+      "mammals": {
+        "A0": 1.6e+26,
+        "a": 4210000000000000000
+      },
+      "fish_inclusive": {
+        "A0": 4.016e+28,
+        "a": 104210000000000000000
+      }
+    }
+  },
+  "baseline": {
+    "mammals": {
+      "past": 0.0004997501249375311,
+      "eternal_animal_flow_limit": 0.9748220800191376,
+      "a1_final": 0.000012355059705826029,
+      "a2_final": 0.0004997501249375311,
+      "human_over_animal_flow": 38.71733966745843
+    },
+    "fish_inclusive": {
+      "past": 0.0000019920279043268837,
+      "eternal_animal_flow_limit": 0.6100071105123311,
+      "a1_final": 4.0717631976533615e-7,
+      "a2_final": 0.0000019920279043268837,
+      "human_over_animal_flow": 1.5641493138854237
+    }
+  },
+  "rows": [
+    {
+      "reference": "mammals",
+      "s": 1,
+      "target": 0.1,
+      "years": 108887.81028035468,
+      "years_if_animals_stop_now": 108575.32379004773,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 0.000009183764439979909
+    },
+    {
+      "reference": "mammals",
+      "s": 1,
+      "target": 0.5,
+      "years": 1007116.317148435,
+      "years_if_animals_stop_now": 981104.2944785276,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 9.929339669834917e-7
+    },
+    {
+      "reference": "mammals",
+      "s": 1,
+      "target": 0.9,
+      "years": 11509231.87594917,
+      "years_if_animals_stop_now": 8833865.030674849,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 8.688677148730481e-8
+    },
+    {
+      "reference": "mammals",
+      "s": 1,
+      "target": 0.99,
+      "years": 3932668220.8588924,
+      "years_if_animals_stop_now": 97177423.31288336,
+      "before_biosphere_end": false,
+      "hazard_if_mean_life_equals_L": 2.5428028601446594e-10
+    },
+    {
+      "reference": "mammals",
+      "s": 10,
+      "target": 0.1,
+      "years": 10860.649170620882,
+      "years_if_animals_stop_now": 10857.532379004773,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 0.0000920755273731793
+    },
+    {
+      "reference": "mammals",
+      "s": 10,
+      "target": 0.5,
+      "years": 98364.48741842427,
+      "years_if_animals_stop_now": 98110.42944785276,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 0.00001016627063531766
+    },
+    {
+      "reference": "mammals",
+      "s": 10,
+      "target": 0.9,
+      "years": 904409.8711772431,
+      "years_if_animals_stop_now": 883386.5030674849,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 0.0000011056933718539916
+    },
+    {
+      "reference": "mammals",
+      "s": 10,
+      "target": 0.99,
+      "years": 13056206.262724493,
+      "years_if_animals_stop_now": 9717742.331288336,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 7.65919272319558e-8
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.1,
+      "years": 29468428.738103453,
+      "years_if_animals_stop_now": 27375105.657805044,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 3.393462233386654e-8
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.5,
+      "years": 683108011.5665929,
+      "years_if_animals_stop_now": 246379877.3006135,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 1.4638973384409133e-9
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.9,
+      "years": 10848312392.63804,
+      "years_if_animals_stop_now": 2217422822.0858903,
+      "before_biosphere_end": false,
+      "hazard_if_mean_life_equals_L": 9.218023631755176e-11
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.99,
+      "years": 119331441226.99377,
+      "years_if_animals_stop_now": 24391655950.920227,
+      "before_biosphere_end": false,
+      "hazard_if_mean_life_equals_L": 8.380021138752422e-12
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.1,
+      "years": 2757095.9076026776,
+      "years_if_animals_stop_now": 2737510.5657805046,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 3.627004767017735e-7
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.5,
+      "years": 26320738.764836576,
+      "years_if_animals_stop_now": 24637987.73006135,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 3.7992854567439377e-8
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.9,
+      "years": 522229009.83947664,
+      "years_if_animals_stop_now": 221742282.20858905,
+      "before_biosphere_end": true,
+      "hazard_if_mean_life_equals_L": 1.9148687283905985e-9
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.99,
+      "years": 11933144122.699377,
+      "years_if_animals_stop_now": 2439165595.0920224,
+      "before_biosphere_end": false,
+      "hazard_if_mean_life_equals_L": 8.380021138752421e-11
+    }
+  ],
+  "reported_comparison": [
+    {
+      "reference": "mammals",
+      "s": 1,
+      "target": 0.1,
+      "reported": 110000,
+      "calculated": 108887.81028035468,
+      "reported_over_calculated": 1.01021408839779,
+      "source": "072"
+    },
+    {
+      "reference": "mammals",
+      "s": 1,
+      "target": 0.5,
+      "reported": 1000000,
+      "calculated": 1007116.317148435,
+      "reported_over_calculated": 0.9929339669834918,
+      "source": "072"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.1,
+      "reported": 76000000,
+      "calculated": 29468428.738103453,
+      "reported_over_calculated": 2.579031297373857,
+      "source": "070/072"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.5,
+      "reported": 680000000,
+      "calculated": 683108011.5665929,
+      "reported_over_calculated": 0.9954501901398211,
+      "source": "070/072/073"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.1,
+      "reported": 2900000,
+      "calculated": 2757095.9076026776,
+      "reported_over_calculated": 1.051831382435143,
+      "source": "070/072"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.5,
+      "reported": 26000000,
+      "calculated": 26320738.764836576,
+      "reported_over_calculated": 0.9878142187534238,
+      "source": "070/072"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.9,
+      "reported": 11000000000,
+      "calculated": 10848312392.63804,
+      "reported_over_calculated": 1.0139825994930693,
+      "source": "072/073"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.9,
+      "reported": 1100000000,
+      "calculated": 522229009.83947664,
+      "reported_over_calculated": 2.1063556012296583,
+      "source": "072/073"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 1,
+      "target": 0.99,
+      "reported": 120000000000,
+      "calculated": 119331441226.99377,
+      "reported_over_calculated": 1.0056025366502905,
+      "source": "073"
+    },
+    {
+      "reference": "fish_inclusive",
+      "s": 10,
+      "target": 0.99,
+      "reported": 12000000000,
+      "calculated": 11933144122.699377,
+      "reported_over_calculated": 1.0056025366502905,
+      "source": "073"
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "schema_version": 1,
+  "attested_at": "2026-09-05T05:59:03.890Z",
+  "method": "Full text of each of the 74 articles was read by the constructing agent before synthesis; long outputs were split and truncated portions reread. This is a manual reading attestation, not an automated semantic verification.",
+  "articles": [
+    {
+      "id": "001",
+      "sha256": "563d0fd71ede954ace19533f2e1d97e41c29725ddf129fb532cb14de4d673cce",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        103
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "002",
+      "sha256": "7f053a6e77aa42742ab9f47592619a22279d4337d72380dc971d4a14ae34559f",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        350
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "003",
+      "sha256": "03e9f21511d6bea164f901519e62e93e2fc022a2d3bb5ebde76356a4b43bc821",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        163
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "004",
+      "sha256": "863f2ac64ff8d6019da6af842d4f1580498515f5d4f040219753bc44c9c8e02e",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        87
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "005",
+      "sha256": "6c1d7f7deb328362c22cc65f704550571ed07ddc4c3ae1707fdd1ce44f6b5320",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        152
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "006",
+      "sha256": "7c081ed292302129220a566d6d57463189fdf260697c487891665688dc9f0ec6",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        218
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "007",
+      "sha256": "0f325cb1c6cad474ec57275c8f4d8869f448140627a957634b1d0624255cc4a6",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        217
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "008",
+      "sha256": "b6486b8047ec50b4bc8c3a2e1e0c2a81eee491d8065f24f2ef9caa8e50a58330",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        242
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "009",
+      "sha256": "1d8250b8040fd31c97d6af532331a68642767e2b0b01e2c22cecb0cb2a5816ac",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        228
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "010",
+      "sha256": "153d2d4d5c6eef078079d4b4378198043f469178ca56e22d96ba86e94526b718",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        87
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "011",
+      "sha256": "c998a2f970b24f409cdd23d282dc267a456d81cf23a48a71ec156777673fcc49",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        249
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "012",
+      "sha256": "17ef7151b88637053ec81ee3e6b9d352f81c90ce12edd2d3988783f5b85bb9ce",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        218
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "013",
+      "sha256": "d73d4ef9aceaf41f85526f51d8d2e75927c20775ae6cff031fa6e115f2a7929c",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        371
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "014",
+      "sha256": "561a4c2d1ec55660fd34c32edb3993cd338f9ce45836d38db9b04ed743ceaa19",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        63
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "015",
+      "sha256": "2c694e5cc2423ccebe6fbfd08b4727d82f0d7069eefca6571ee74f36573f247c",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        115
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "016",
+      "sha256": "24929cfdaaecba6eebdebdea9389cf62cb79ebed0e8456dd8369200bca953356",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        324
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "017",
+      "sha256": "dc38dc7187587c143dad31d42b9072888d54e6262498c41f80141fe134886be1",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        63
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "018",
+      "sha256": "ac409928bee4f403f7ee9cf35e21df5aa70bcac9e11f853f65444055114682d3",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        369
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "019",
+      "sha256": "11b01c9efc12bbeb1b7623c8dae9d590b150d59ea72aebf48541ecad092a71a3",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        374
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "020",
+      "sha256": "a556daca862172c660615f1caad77f28a9c2c60042f03ba647a64ab7f112e7b4",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        326
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "021",
+      "sha256": "afd23877e1df59268c6f6c621c9591663c648090fff18be61d81607b304ea182",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        141
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "022",
+      "sha256": "27ae3583d8e7757890d9546c27957e26eb06f8f63d3f63d04a3a3a5fe1a79d99",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        37
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "023",
+      "sha256": "3625d483012f9a16171ccd57674eab5c2d159988ee62588cc8456c50f8e97539",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        219
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "024",
+      "sha256": "6c0d751ee306966c95b8919900b4b05de9ec6f849b9e37c58f9dd9cb1d25a0ca",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        337
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "025",
+      "sha256": "8769db5fae45530833a40918b4aaf896f3dbd3f7258885adc4a9e5d446cd8143",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        430
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "026",
+      "sha256": "bbd7d336469eea269151830534449962e800e0b8e45d91b55a94ddf4f1a12b4a",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        341
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "027",
+      "sha256": "3a43cb93d65ef47ed715d9c55299ef9f09c872f2d7102d679708849c19cc203a",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        394
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "028",
+      "sha256": "25123633b29abed7c36116ba873df58552820900e067399b8abc87008a1011fe",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        239
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "029",
+      "sha256": "321d109833ab25c43b4993500e20473a37d87f33300b7edc27b77c90f251d53e",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        111
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "030",
+      "sha256": "d10ed2643b01b5eb9fc207a3754f98a791abd37644d256946609d041e21ea774",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        37
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "031",
+      "sha256": "ae3472643b42bb6c3d42fec69712f05ba68f093c62ee1a8e7121a8229519dba1",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        35
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "032",
+      "sha256": "afbe613817bd301a2881304c5fba81c4a8fbf4749f715f179d315db15a65f05a",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        32
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "033",
+      "sha256": "cf84d58e4a8789d69215c79981d0bba1486521676f5cabea15cc0993d44ad5b2",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        43
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "034",
+      "sha256": "64c8ff369740febe357e7e04bea5628f0488e40f2839420ce9a60b3191d64fa9",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        39
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "035",
+      "sha256": "4ee6ea1dc51c9d4bd129b9a3e9453aa275f3a18ae5cf8c027b44675101264644",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        123
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "036",
+      "sha256": "1f94a53ac91d715d82eb859b096268ba996411b1be17f2c650aa8350b763e4b0",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        133
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "037",
+      "sha256": "2db06eaae0afddd22ccff2a77ac8f840ab4cc112fd22f7d588f9954119465be7",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        103
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "038",
+      "sha256": "a152bb1e65d84a3e2777d248acd09242d86853ad632f9989ec434f4c90c32084",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        163
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "039",
+      "sha256": "351f445402714af1cd95a2d4926ede1ae47bc7d00d010d5758e794f600524043",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        149
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "040",
+      "sha256": "ac431a9999b48842360985aa1c2a32814884260611daf9f070a9cf67b4093e6f",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        131
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "041",
+      "sha256": "f9aa523c6439ee972f482b12ba9cef6c16c5fdbe04be3dd64ee82a06fcaeb497",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        59
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "042",
+      "sha256": "b25b30a8c8027be4596ce72a923bf3e7bc8d88f3a45869a3c31e743910135edd",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        77
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "043",
+      "sha256": "47e298121ae9ef60c1f51a0bc93a51b40b8a09d6586bbe340c2741d7fc28fc09",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        145
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "044",
+      "sha256": "858d0650979c34d655ae27f53954b6f15bb8b0ab2f0c52201f550d7107d95cc8",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        117
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "045",
+      "sha256": "bbf5a3dfd75bd9a8ba9ab4cb4d16ffa7dc6c3fd0a4e3f14ba31fa03bd68f6cd1",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        97
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "046",
+      "sha256": "5819638a9cdbba4792d4fb6ec4287ac265ec6f22cf933d1b4a435aebb587c588",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        75
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "047",
+      "sha256": "23d339e2eaeabe62701ea06b6d5b1cbff4f68cb1bc21d6aec026b53c7f68fba1",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        95
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "048",
+      "sha256": "cb0bb9534c513badcc10ed33b128d3044163e639106a38daa2d1661c1db1cc2c",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        107
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "049",
+      "sha256": "45fe24fcd49d790426a35f85a067f9c7d1eff76df82a3a384336c4fa7f1e1a01",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        101
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "050",
+      "sha256": "dc7f9b594e530b1b69a685e928d98517e6e10f34710a97c73bd6f6aa94fb3dc0",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        79
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "051",
+      "sha256": "f30bc18eafe58c17e36c109f08241aefc0b715b58462afcb8ce6a3894510816f",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        99
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "052",
+      "sha256": "4fb82300f73f3b1561af5ee59e14cbb22fb8488290bcf055ef343765c1761e74",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        572
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "053",
+      "sha256": "5ab27cdb268c75918c311446f9ca5cefd2a34c1ac147020ca309f78383b78175",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        57
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "054",
+      "sha256": "1a892317733af86d8da2e641b81b11de0c4348608b85cbaec02c45011c2d476f",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        45
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "055",
+      "sha256": "c39463369b27871b9e87005321b94ea4ee87fbf3263fd621c1a08cf358d5ac71",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        99
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "056",
+      "sha256": "52f7896b9184040be0f1fc2cb9cbee20952634236fabcdb2b0f15720a94b9601",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        81
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "057",
+      "sha256": "0de24d24086becd9c60daaa655c6e7b4a264149ef56ef91c5da9dfeca48232a6",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        65
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "058",
+      "sha256": "da793c7009ba62c74fa40c797ae02b778fc1c8dae6e96e2e83f2fa5012ddc7af",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        41
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "059",
+      "sha256": "ad5b181ff63103772183ee32c7efae6bcca074623a8fe3a2e0db4eafe40869bb",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        89
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "060",
+      "sha256": "63bf3835f13bbe00d932037c336c0dce0436c0ab8495987724125c376be2b579",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        160
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "061",
+      "sha256": "971ca009fa2e71a58772e066929363780bb5e3611d99bb9bbf4caca6df98ce12",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        143
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "062",
+      "sha256": "1f5b1fb639719501a40fbd0c0e08b60f48a4522d775a5f684a6ca83ee5cf0f77",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        149
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "063",
+      "sha256": "90b2290fa18473ff84d021915ad5d07614ef196a40142c6d8707a89e977e1e1f",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        176
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "064",
+      "sha256": "874a1f58d2689b457df47e1471fa954c167922cc5b56c43cc46c954566b829e9",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        103
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "065",
+      "sha256": "e6ae93c9edde9d7396752b2bab2c5896a16898b653b61e221b97259c5c723c64",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        157
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "066",
+      "sha256": "8826ef74417d80f517dd3796653d4fcd8c36bebd00522e0a45363790050a92f0",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        134
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "067",
+      "sha256": "63c8d357af81baed97cadaece1e149075ccb31f3eea97c09d67b270ad147dd80",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        222
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "068",
+      "sha256": "2fd22a708cb1686244ddd95c88f618520504625c788387c69a1a8fee96eaac29",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        154
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "069",
+      "sha256": "5b7283faf4017cd42f2b6db653e7819345458c1b1c2c3485139997a05819f8d1",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        329
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "070",
+      "sha256": "819aeb2903bdc1058165cf937eadc04245086485a13bc02a82481d751665233b",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        350
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "071",
+      "sha256": "5f315aa2092fd202035bfe3a2f25835dc658eea3c16ac6c4d01cedb492321e36",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        247
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "072",
+      "sha256": "2ed8748aa6611b1ef594bbd3698a6767108c1d019a5b6928c5cb9bd64815df4a",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        385
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "073",
+      "sha256": "95866b6cdd67cbf97f401fd27d27a4955c776cbf3e4f528debae58832eb3469f",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        235
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    },
+    {
+      "id": "074",
+      "sha256": "4ae6d6865bead0bf87bb1bb0847aee436a65d762b0ea4d8af82222c9e224a64e",
+      "full_text_read": true,
+      "read_range": [
+        1,
+        117
+      ],
+      "note": "Summarized individually in notes JSONL and article card"
+    }
+  ]
+}
