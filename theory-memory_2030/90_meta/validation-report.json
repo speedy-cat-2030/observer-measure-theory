@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-05T08:28:29.010Z",
+  "checked_at": "2026-09-06T04:55:54.910Z",
   "status": "PASS",
   "articles": 74,
   "full_read_attestations": 74,
   "cards": 74,
   "theory_modules": 13,
   "claim_nodes": 19,
-  "local_markdown_links_checked": 543,
+  "local_markdown_links_checked": 555,
   "source_bytes": 731792,
   "source_characters": 283931,
-  "entry_characters": 1764,
-  "entry_character_reduction": 0.9937872229520552,
+  "entry_characters": 1934,
+  "entry_character_reduction": 0.9931884859349631,
   "module_characters": [
     {
       "file": "10_theory/01_measure.md",
@@ -18,7 +18,7 @@
     },
     {
       "file": "10_theory/02_reference.md",
-      "characters": 1190
+      "characters": 1457
     },
     {
       "file": "10_theory/03_numbers.md",
@@ -26,7 +26,7 @@
     },
     {
       "file": "10_theory/04_time_identity.md",
-      "characters": 1249
+      "characters": 1523
     },
     {
       "file": "10_theory/05_onset.md",
@@ -38,7 +38,7 @@
     },
     {
       "file": "10_theory/07_bayes_objections.md",
-      "characters": 1397
+      "characters": 1678
     },
     {
       "file": "10_theory/08_asi_ethics.md",

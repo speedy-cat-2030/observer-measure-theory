@@ -27,7 +27,11 @@
         "O06",
         "O07",
         "O09",
-        "O14"
+        "O14",
+        "O16"
+      ],
+      "discussion_files": [
+        "60_discussions/D003_now_sequence_observation_selection.md"
       ]
     },
     {
@@ -132,10 +136,12 @@
       "depends_on": [],
       "issues": [
         "O04",
-        "O15"
+        "O15",
+        "O16"
       ],
       "discussion_files": [
-        "60_discussions/D002_theory_construction_longevity.md"
+        "60_discussions/D002_theory_construction_longevity.md",
+        "60_discussions/D003_now_sequence_observation_selection.md"
       ]
     },
     {
@@ -156,7 +162,11 @@
       ],
       "issues": [
         "O04",
-        "O06"
+        "O06",
+        "O16"
+      ],
+      "discussion_files": [
+        "60_discussions/D003_now_sequence_observation_selection.md"
       ]
     },
     {
@@ -205,7 +215,11 @@
         "C-REFERENCE"
       ],
       "issues": [
-        "O06"
+        "O06",
+        "O16"
+      ],
+      "discussion_files": [
+        "60_discussions/D003_now_sequence_observation_selection.md"
       ]
     },
     {
@@ -288,10 +302,12 @@
         "O06",
         "O10",
         "O11",
-        "O12"
+        "O12",
+        "O16"
       ],
       "discussion_files": [
-        "60_discussions/D002_theory_construction_longevity.md"
+        "60_discussions/D002_theory_construction_longevity.md",
+        "60_discussions/D003_now_sequence_observation_selection.md"
       ]
     },
     {
@@ -341,10 +357,12 @@
       "issues": [
         "O06",
         "O10",
-        "O13"
+        "O13",
+        "O16"
       ],
       "discussion_files": [
-        "60_discussions/D002_theory_construction_longevity.md"
+        "60_discussions/D002_theory_construction_longevity.md",
+        "60_discussions/D003_now_sequence_observation_selection.md"
       ]
     },
     {
