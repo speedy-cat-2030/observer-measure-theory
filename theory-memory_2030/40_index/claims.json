@@ -49,7 +49,11 @@
         "C-REFERENCE"
       ],
       "issues": [
-        "O01"
+        "O01",
+        "O17"
+      ],
+      "discussion_files": [
+        "60_discussions/D004_experience_measure_continuity.md"
       ]
     },
     {
@@ -115,7 +119,11 @@
       ],
       "issues": [
         "O01",
-        "O05"
+        "O05",
+        "O17"
+      ],
+      "discussion_files": [
+        "60_discussions/D004_experience_measure_continuity.md"
       ]
     },
     {
@@ -137,11 +145,13 @@
       "issues": [
         "O04",
         "O15",
-        "O16"
+        "O16",
+        "O17"
       ],
       "discussion_files": [
         "60_discussions/D002_theory_construction_longevity.md",
-        "60_discussions/D003_now_sequence_observation_selection.md"
+        "60_discussions/D003_now_sequence_observation_selection.md",
+        "60_discussions/D004_experience_measure_continuity.md"
       ]
     },
     {
@@ -195,7 +205,11 @@
       "issues": [
         "O04",
         "O05",
-        "O08"
+        "O08",
+        "O17"
+      ],
+      "discussion_files": [
+        "60_discussions/D004_experience_measure_continuity.md"
       ]
     },
     {
@@ -216,10 +230,12 @@
       ],
       "issues": [
         "O06",
-        "O16"
+        "O16",
+        "O17"
       ],
       "discussion_files": [
-        "60_discussions/D003_now_sequence_observation_selection.md"
+        "60_discussions/D003_now_sequence_observation_selection.md",
+        "60_discussions/D004_experience_measure_continuity.md"
       ]
     },
     {

@@ -10,6 +10,7 @@
 |数値、式、単位、寿命、ハザード、CFF、加速|[03_numbers](10_theory/03_numbers.md)|061,064,065,069,070,073,074|
 |現前性、系列内時点、なぜ今、眠り姫|[04_time_identity](10_theory/04_time_identity.md)|035,063,066,071|
 |今の抽選、1から100、誕生日、電車、全駅、到達保証、質問頻度、赤白の球、ランプ、早期当選、観測選択の再検討|[D003](60_discussions/D003_now_sequence_observation_selection.md)|027,035,066,071関連の後続対話|
+|優先度2、極小経験、1/N²、測度保存、初発ボーナス、連続性、時間＝意識|[D004](60_discussions/D004_experience_measure_continuity.md)|063,068,071,072関連の後続対話|
 |初発論、閾値、積分型、出生点|[05_onset](10_theory/05_onset.md)|029〜035,042,068,071|
 |a/b、ドゥームズデイ、出生停止、動物終点|[06_future](10_theory/06_future.md)|060〜062,065,070,073|
 |SSA、SSSA、SSSSA、SIA、ベイズ、尤度、低い目|[07_bayes_objections](10_theory/07_bayes_objections.md)|013〜018,041,060,067,072|
