@@ -50,10 +50,12 @@
       ],
       "issues": [
         "O01",
-        "O17"
+        "O17",
+        "O18"
       ],
       "discussion_files": [
-        "60_discussions/D004_experience_measure_continuity.md"
+        "60_discussions/D004_experience_measure_continuity.md",
+        "60_discussions/D006_measure_probability_axioms.md"
       ]
     },
     {
@@ -98,7 +100,8 @@
       "issues": [
         "O02",
         "O03",
-        "O07"
+        "O07",
+        "O18"
       ]
     },
     {
@@ -120,10 +123,12 @@
       "issues": [
         "O01",
         "O05",
-        "O17"
+        "O17",
+        "O18"
       ],
       "discussion_files": [
-        "60_discussions/D004_experience_measure_continuity.md"
+        "60_discussions/D004_experience_measure_continuity.md",
+        "60_discussions/D006_measure_probability_axioms.md"
       ]
     },
     {
@@ -151,7 +156,8 @@
       "discussion_files": [
         "60_discussions/D002_theory_construction_longevity.md",
         "60_discussions/D003_now_sequence_observation_selection.md",
-        "60_discussions/D004_experience_measure_continuity.md"
+        "60_discussions/D004_experience_measure_continuity.md",
+        "60_discussions/D006_measure_probability_axioms.md"
       ]
     },
     {
@@ -176,7 +182,8 @@
         "O16"
       ],
       "discussion_files": [
-        "60_discussions/D003_now_sequence_observation_selection.md"
+        "60_discussions/D003_now_sequence_observation_selection.md",
+        "60_discussions/D006_measure_probability_axioms.md"
       ]
     },
     {
@@ -209,7 +216,8 @@
         "O17"
       ],
       "discussion_files": [
-        "60_discussions/D004_experience_measure_continuity.md"
+        "60_discussions/D004_experience_measure_continuity.md",
+        "60_discussions/D006_measure_probability_axioms.md"
       ]
     },
     {
@@ -235,7 +243,8 @@
       ],
       "discussion_files": [
         "60_discussions/D003_now_sequence_observation_selection.md",
-        "60_discussions/D004_experience_measure_continuity.md"
+        "60_discussions/D004_experience_measure_continuity.md",
+        "60_discussions/D006_measure_probability_axioms.md"
       ]
     },
     {
