@@ -410,7 +410,8 @@
         "O13"
       ],
       "discussion_files": [
-        "60_discussions/D001_asi_ethics_non_generation.md"
+        "60_discussions/D001_asi_ethics_non_generation.md",
+        "60_discussions/D005_asi_forecast_2026_09_06.md"
       ]
     },
     {
@@ -486,6 +487,9 @@
         "O10",
         "O11",
         "N07"
+      ],
+      "discussion_files": [
+        "60_discussions/D005_asi_forecast_2026_09_06.md"
       ]
     },
     {

@@ -21,6 +21,7 @@
 |意識基質、IIT、Orch OR、インデックス、皮質/脳幹|[10_consciousness](10_theory/10_consciousness.md)|004,022,024,038〜046,070,071|
 |シミュレーション、祖先、末端、モニタリング、多世界|[11_simulation_ontology](10_theory/11_simulation_ontology.md)|003,010〜012,019,057|
 |予測、AGI/ASI時期、fast/slow、LEV到達|[12_forecasts](10_theory/12_forecasts.md)|020,050,051,056|
+|最新のアシスタント予測、ケース1/2到達、Astra、ECI169、AI Futures、2026年9月6日|[D005](60_discussions/D005_asi_forecast_2026_09_06.md)|Eの主観予測。記事著者の値と分離|
 |個人、苦痛、選好、生活、アップロード、AI対話|[13_personal_dialogue](10_theory/13_personal_dialogue.md)|007,021,023,025,026,052,055,059|
 |どの説が撤回/変更されたか|[EVOLUTION](20_history/EVOLUTION.md)|[全記事目録](40_index/ARTICLES.md)|
 |反論/弱点/修正候補|[OPEN_ISSUES](20_history/OPEN_ISSUES.md)|[依存グラフ](40_index/claims.json)|

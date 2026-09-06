@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-06T11:49:56.545Z",
+  "checked_at": "2026-09-06T12:43:38.009Z",
   "status": "PASS",
   "articles": 74,
   "full_read_attestations": 74,
   "cards": 74,
   "theory_modules": 13,
   "claim_nodes": 19,
-  "local_markdown_links_checked": 569,
+  "local_markdown_links_checked": 576,
   "source_bytes": 731792,
   "source_characters": 283931,
-  "entry_characters": 2111,
-  "entry_character_reduction": 0.9925650950406965,
+  "entry_characters": 2275,
+  "entry_character_reduction": 0.9919874899183252,
   "module_characters": [
     {
       "file": "10_theory/01_measure.md",
@@ -58,7 +58,7 @@
     },
     {
       "file": "10_theory/12_forecasts.md",
-      "characters": 1154
+      "characters": 1660
     },
     {
       "file": "10_theory/13_personal_dialogue.md",
