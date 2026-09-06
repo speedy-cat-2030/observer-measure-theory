@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-06T04:55:54.910Z",
+  "checked_at": "2026-09-06T07:24:12.397Z",
   "status": "PASS",
   "articles": 74,
   "full_read_attestations": 74,
   "cards": 74,
   "theory_modules": 13,
   "claim_nodes": 19,
-  "local_markdown_links_checked": 555,
+  "local_markdown_links_checked": 557,
   "source_bytes": 731792,
   "source_characters": 283931,
   "entry_characters": 1934,
@@ -38,7 +38,7 @@
     },
     {
       "file": "10_theory/07_bayes_objections.md",
-      "characters": 1678
+      "characters": 1840
     },
     {
       "file": "10_theory/08_asi_ethics.md",
